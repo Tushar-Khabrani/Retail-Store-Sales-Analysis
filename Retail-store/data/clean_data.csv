@@ -1,0 +1,996 @@
+order_id,date,product,category,price,quantity,customer,city,payment,revenue
+ORD-10001,2022-04-17,Saree,Clothing,352.56,2,"Rajesh Nair",Mumbai,"Cash on Delivery",705.12
+ORD-10002,2023-04-15,Bookshelf,Furniture,33194.45,9,"Lakshmi Pillai",Chennai,Wallet,298750.05
+ORD-10003,2022-01-04,Tablet,Electronics,59492.78,6,"Bhavna Desai",Kolkata,"Credit Card",356956.68
+ORD-10004,2024-05-26,Saree,Clothing,664.24,6,"Priya Patel",Kanpur,"Net Banking",3985.44
+ORD-10005,2024-10-28,Saree,Clothing,578.24,5,"Ananya Das",Surat,"Debit Card",2891.20
+ORD-10006,2022-04-28,T-Shirt,Clothing,3374.06,5,"Sneha Gupta",Pune,"Net Banking",16870.30
+ORD-10007,2023-06-07,"Action Figure",Toys,6706.06,3,"Tarun Bansal",Chennai,EMI,20118.18
+ORD-10008,2022-08-13,Jacket,Clothing,2763.87,4,"Vikram Rao",Bhopal,EMI,11055.48
+ORD-10009,2022-01-26,Bookshelf,Furniture,17565.57,1,"Suresh Kumar",Pune,UPI,17565.57
+ORD-10010,2024-06-07,Dress,Clothing,4583.05,10,"Meera Kapoor",Ahmedabad,"Net Banking",45830.50
+ORD-10011,2024-09-18,"LEGO Set",Toys,2266.07,4,"Vikram Rao",Kanpur,"Cash on Delivery",9064.28
+ORD-10012,2022-09-16,Cookbook,Books,659.16,4,"Amit Singh",Nagpur,Unknown,2636.64
+ORD-10013,2024-02-13,Jacket,Clothing,3211.74,7,"Manoj Tiwari",Surat,"Net Banking",22482.18
+ORD-10014,2024-12-04,Dumbbells,Sports,12953.46,1,"Tarun Bansal",Bhopal,"Net Banking",12953.46
+ORD-10015,2023-03-15,Cycle,Sports,5300.58,5,"Rahul Sharma",Kanpur,EMI,26502.90
+ORD-10016,2022-11-10,Dumbbells,Sports,11500.84,9,"Meera Kapoor",Jaipur,"Cash on Delivery",103507.56
+ORD-10017,2024-09-01,"Dining Table",Furniture,19947.86,3,"Rajesh Nair",Kolkata,"Net Banking",59843.58
+ORD-10018,2023-12-01,Smartphone,Electronics,79008.83,5,"Lakshmi Pillai",Dehli,"Credit Card",395044.15
+ORD-10019,2022-03-22,"Board Game",Toys,7828.28,9,"Neha Reddy",jaipur,EMI,70454.52
+ORD-10020,2022-09-25,Dumbbells,Sports,13124.77,7,"Harish Yadav",Kanpur,"Debit Card",91873.39
+ORD-10021,2023-09-15,"Yoga Mat",Sports,14928.70,6,"Sneha Gupta",Hyderabad,"Debit Card",89572.20
+ORD-10022,2022-10-08,Kurta,Clothing,300.96,9,"Rahul Sharma",Delhi,EMI,2708.64
+ORD-10023,2023-02-17,Headphones,Electronics,6195.33,1,"Divya Joshi",Chennai,EMI,6195.33
+ORD-10025,2023-07-14,Sofa,Furniture,6652.68,7,"Deepak Pandey",Indore,EMI,46568.76
+ORD-10026,2022-04-07,Smartphone,Electronics,5621.77,6,"Arjun Mehta",Jaipur,"Net Banking",33730.62
+ORD-10028,2022-07-16,Smartphone,Electronics,78778.01,4,"Neha Reddy",Hyderabad,Wallet,315112.04
+ORD-10029,2023-05-26,"Fiction Novel",Books,330.49,1,"Deepak Pandey",Chennai,"Net Banking",330.49
+ORD-10030,2022-10-24,"LEGO Set",Toys,1681.20,4,"Sanjay Mishra",Mumbai,EMI,6724.80
+ORD-10031,2024-09-06,"Face Cream",Beauty,245.41,8,"Priya Patel",Jaipur,"Credit Card",1963.28
+ORD-10032,2023-02-19,"Cooking Oil",Grocery,496.28,4,"Divya Joshi",Surat,"Cash on Delivery",1985.12
+ORD-10033,2024-09-11,Smartphone,Electronics,35924.51,10,"Vikram Rao",Hyderabad,EMI,359245.10
+ORD-10034,2024-11-10,Shampoo,Beauty,870.28,3,"Deepak Pandey",Kolkata,"Cash on Delivery",2610.84
+ORD-10035,2022-02-18,T-Shirt,Clothing,2399.77,10,"Arjun Mehta",Jaipur,UPI,23997.70
+ORD-10037,2022-11-27,Dumbbells,Sports,14762.64,9,"Sanjay Mishra",Chennai,EMI,132863.76
+ORD-10038,2024-09-05,Jacket,Clothing,1469.44,2,"Vikram Rao",Chennai,"Cash on Delivery",2938.88
+ORD-10039,2024-08-09,Bookshelf,Furniture,18458.25,5,"Priya Patel",Delhi,EMI,92291.25
+ORD-10040,2022-11-09,"Self-Help Book",Books,161.72,6,"Kavya Nair",Kanpur,"Net Banking",970.32
+ORD-10041,2024-03-18,Cookbook,Books,113.54,2,"Priya Patel",Indore,UPI,227.08
+ORD-10042,2023-01-12,Coffee,Grocery,145.58,5,"Arjun Mehta",Lucknow,"Debit Card",727.90
+ORD-10044,2023-11-28,Coffee,Grocery,68.59,6,"Harish Yadav",Nagpur,"Debit Card",411.54
+ORD-10045,2023-01-28,Football,Sports,11874.41,2,"Neha Reddy",Hyderabad,"Debit Card",23748.82
+ORD-10046,2022-01-22,"Remote Car",Toys,2580.49,4,"Arjun Mehta",Pune,UPI,10321.96
+ORD-10047,2023-11-17,"Cricket Bat",Sports,14513.27,5,"Manoj Tiwari",Lucknow,Wallet,72566.35
+ORD-10048,2022-10-09,"Face Cream",Beauty,434.49,5,"Priya Patel","Unknown City","Cash on Delivery",2172.45
+ORD-10049,2023-10-17,"Self-Help Book",Books,1119.96,6,"Sneha Gupta",Pune,"Cash on Delivery",6719.76
+ORD-10050,2022-09-26,"Bed Frame",Furniture,4130.55,7,"Sanjay Mishra",Lucknow,EMI,28913.85
+ORD-10051,2024-06-22,"Bed Frame",Furniture,22702.28,6,"Sneha Gupta",Kanpur,UPI,136213.68
+ORD-10052,2024-05-18,Cycle,Sports,6303.38,7,"Rohit Verma",Hyderabad,UPI,44123.66
+ORD-10053,2024-10-10,Biography,Books,1147.39,3,"Manoj Tiwari",Jaipur,Wallet,3442.17
+ORD-10054,2024-10-21,Smartwatch,Electronics,24744.21,7,"Suresh Kumar",Ahmedabad,"Net Banking",173209.47
+ORD-10055,2024-03-22,"Action Figure",Toys,1866.87,8,"Amit Singh",Chennai,"Cash on Delivery",14934.96
+ORD-10056,2024-05-08,"Face Cream",Beauty,2473.43,4,"Arjun Mehta",Bangalore,"Credit Card",9893.72
+ORD-10057,2022-08-14,Headphones,Electronics,83642.59,10,"Meera Kapoor",Surat,"Debit Card",836425.90
+ORD-10058,2024-12-01,"Comic Book",Books,659.51,3,"Bhavna Desai",Indore,Wallet,1978.53
+ORD-10059,2023-01-18,Saree,Clothing,1250.44,9,"Divya Joshi",Bhopal,Wallet,11253.96
+ORD-10060,2024-09-18,Hoodie,Clothing,840.03,8,"Rajesh Nair",Kolkata,Wallet,6720.24
+ORD-10061,2023-09-15,Puzzle,Toys,6557.05,9,"Kavya Nair",Kanpur,Wallet,59013.45
+ORD-10062,2024-05-25,Doll,Toys,2221.69,4,"Bhavna Desai",Jaipur,"Net Banking",8886.76
+ORD-10063,2022-05-11,"Bed Frame",Furniture,23113.88,5,"Suresh Kumar",Bhopal,"Cash on Delivery",115569.40
+ORD-10064,2024-03-23,Jacket,Clothing,923.99,7,"Arjun Mehta",Delhi,"Net Banking",6467.93
+ORD-10065,2022-04-27,"Self-Help Book",Books,859.66,7,"Riya Shah",Pune,Wallet,6017.62
+ORD-10066,2023-07-28,Speaker,Electronics,40804.79,6,"Riya Shah",Jaipur,EMI,244828.74
+ORD-10067,2023-01-13,Wardrobe,Furniture,12532.24,7,"Suresh Kumar",Lucknow,EMI,87725.68
+ORD-10068,2022-10-18,Biography,Books,331.06,8,"Rahul Sharma",Bhopal,"Net Banking",2648.48
+ORD-10069,2023-03-02,Smartphone,Electronics,54812.35,3,"Vikram Rao",Pune,UPI,164437.05
+ORD-10070,2023-07-09,Wardrobe,Furniture,17688.60,7,"Amit Singh",Ahmedabad,"Credit Card",123820.20
+ORD-10072,2024-02-19,Tablet,Electronics,20657.05,8,"Arjun Mehta",Ahmedabad,EMI,165256.40
+ORD-10073,2024-12-04,"Badminton Racket",Sports,2766.50,10,"Bhavna Desai",Indore,"Debit Card",27665.00
+ORD-10074,2024-11-13,"Cricket Bat",Sports,8806.67,5,"Manoj Tiwari",Kanpur,"Debit Card",44033.35
+ORD-10076,2022-09-21,Camera,Electronics,45516.97,6,"Suresh Kumar",Mumbai,Wallet,273101.82
+ORD-10077,2024-08-23,"Comic Book",Books,247.75,6,"Unknown Customer",Pune,"Debit Card",1486.50
+ORD-10078,2023-08-14,Dumbbells,Sports,12180.53,9,"Harish Yadav",Surat,UPI,109624.77
+ORD-10079,2023-08-08,Shampoo,Beauty,2509.12,2,"Bhavna Desai",Ahmedabad,"Cash on Delivery",5018.24
+ORD-10080,2022-08-07,"Self-Help Book",Books,140.18,6,"Ananya Das",Nagpur,UPI,841.08
+ORD-10081,2024-01-17,Perfume,Beauty,2652.93,5,"Unknown Customer",Delhi,"Debit Card",13264.65
+ORD-10082,2024-08-21,"Comic Book",Books,877.25,4,"Simran Kaur",Ahmedabad,"Net Banking",3509.00
+ORD-10083,2024-04-10,Smartphone,Electronics,25362.91,7,"Tarun Bansal",Surat,UPI,177540.37
+ORD-10084,2024-09-11,Puzzle,Toys,4341.19,7,"Ananya Das",Kanpur,"Net Banking",30388.33
+ORD-10085,2024-04-11,"Badminton Racket",Sports,3995.63,2,"Sneha Gupta",Kanpur,UPI,7991.26
+ORD10086,2023-12-19,"Wheat Flour",Grocery,212.29,8,"Bhavna Desai",Jaipur,"Cash on Delivery",1698.32
+ORD-10087,2022-06-06,"Cricket Bat",Sports,12539.64,5,"Pooja Iyer",Mumbai,EMI,62698.20
+ORD-10088,2024-05-23,Sugar,Grocery,84.14,1,"Rohit Verma",Lucknow,Wallet,84.14
+ORD-10089,2023-08-16,"Board Game",Toys,7007.21,10,"Deepak Pandey",Kolkata,"Debit Card",70072.10
+ORD-10090,2022-02-13,Smartwatch,Electronics,80019.87,8,"Neha Reddy",Delhi,"Cash on Delivery",640158.96
+ORD-10092,2022-09-13,Cookbook,Books,934.58,10,"Deepak Pandey",Bhopal,"Net Banking",9345.80
+ORD-10093,2024-10-02,Dumbbells,Sports,14853.46,5,"Rajesh Nair",Kanpur,EMI,74267.30
+ORD-10095,2023-05-02,Speaker,Electronics,38567.56,10,"Divya Joshi",Chennai,EMI,385675.60
+ORD-10096,2024-04-09,Cycle,Sports,12936.22,2,"Meera Kapoor",Surat,EMI,25872.44
+ORD-10097,2024-03-09,Wardrobe,Furniture,7509.26,4,"Rohit Verma",Delhi,"Credit Card",30037.04
+ORD-10098,2023-08-04,Sugar,Grocery,496.28,10,"Deepak Pandey",KANPUR,UPI,4962.80
+ORD-10099,2023-02-20,"Self-Help Book",Books,800.66,8,"Priya Patel",Bhopal,"Net Banking",6405.28
+ORD-10100,2022-11-27,Sunscreen,Beauty,826.07,2,"Lakshmi Pillai",Surat,"Credit Card",1652.14
+ORD-10101,2023-09-21,Dumbbells,Sports,891.41,3,"Deepak Pandey",Bhopal,UPI,2674.23
+ORD-10102,2022-08-12,Coffee,Grocery,526.09,8,"Riya Shah",Kolkata,UPI,4208.72
+ORD-10103,2023-11-13,Jacket,Clothing,1783.06,8,"Bhavna Desai",Jaipur,"Credit Card",14264.48
+ORD-10104,2022-07-28,"Board Game",Toys,2653.23,6,"Kiran Bhat",Indore,"Credit Card",15919.38
+ORD-10105,2023-10-25,Doll,Toys,622.79,9,"Neha Reddy",Lucknow,"Net Banking",5605.11
+ORD-10106,2023-08-23,Headphones,Electronics,23066.25,3,"Neha Reddy",Delhi,Unknown,69198.75
+ORD-10107,2022-09-14,Bookshelf,Furniture,9602.15,9,"Amit Singh",Hyderabad,Wallet,86419.35
+ORD-10108,2023-12-10,Hoodie,Clothing,4745.89,3,"Kiran Bhat",KANPUR,UPI,14237.67
+ORD-10109,2023-09-05,"Comic Book",Books,1472.34,4,"Manoj Tiwari",Hyderabad,"Cash on Delivery",5889.36
+ORD-10110,2023-09-09,"Cooking Oil",Grocery,257.19,7,"Rahul Sharma","Unknown City",EMI,1800.33
+ORD-10111,2022-08-18,Dumbbells,Sports,8824.87,8,"Neha Reddy",Kolkata,UPI,70598.96
+ORD-10112,2024-04-19,"Comic Book",Books,1405.99,4,"Manoj Tiwari",Hyderabad,Wallet,5623.96
+ORD-10113,2024-07-13,"Fiction Novel",Books,545.45,8,"Tarun Bansal",Nagpur,Wallet,4363.60
+ORD-10114,2024-10-11,Spices,Grocery,773.62,3,"Sneha Gupta",Indore,Wallet,2320.86
+ORD-10115,2022-12-05,"Board Game",Toys,4302.42,8,"Riya Shah",Indore,EMI,34419.36
+ORD-10116,2023-10-23,"Cooking Oil",Grocery,402.12,5,"Manoj Tiwari",Lucknow,"Credit Card",2010.60
+ORD-10117,2023-11-23,"Hair Oil",Beauty,2592.09,7,"Bhavna Desai",Ahmedabad,"Credit Card",18144.63
+ORD-10118,2022-12-03,Smartphone,Electronics,20338.09,5,"Riya Shah",Delhi,Wallet,101690.45
+ORD-10119,2022-01-11,Hoodie,Clothing,998.55,5,"Priya Patel",Chennai,UPI,4992.75
+ORD-10120,2023-10-22,Lipstick,Beauty,522.15,9,"Kavya Nair",Bangalore,"Debit Card",4699.35
+ORD-10121,2023-10-05,Saree,Clothing,3174.61,4,"Divya Joshi",Ahmedabad,EMI,12698.44
+ORD-10123,2024-07-23,"Remote Car",Toys,7903.68,5,"Vikram Rao",Ahmedabad,Wallet,39518.40
+ORD-10124,2022-04-13,Football,Sports,14990.79,8,"Lakshmi Pillai",Kolkata,"Cash on Delivery",119926.32
+ORD-10125,2023-01-19,Cycle,Sports,4639.89,7,"Tarun Bansal",Nagpur,"Cash on Delivery",32479.23
+ORD-10126,2024-12-13,Monitor,Electronics,70874.89,5,"Ananya Das",Hyderabad,EMI,354374.45
+ORD-10127,2024-02-21,"Study Chair",Furniture,14030.09,3,"Meera Kapoor",Mumbai,UPI,42090.27
+ORD-10128,2022-05-11,"Board Game",Toys,4720.68,3,"Harish Yadav",Pune,"Debit Card",14162.04
+ORD-10129,2024-09-09,"Dining Table",Furniture,39752.61,6,"Kavya Nair",Chennai,Wallet,238515.66
+ORD-10130,2022-08-03,"Remote Car",Toys,6023.16,6,"Rohit Verma",Nagpur,"Debit Card",36138.96
+ORD-10131,2022-05-18,Cookbook,Books,612.09,7,"Sneha Gupta",Ahmedabad,UPI,4284.63
+ORD-10132,2024-02-07,Dumbbells,Sports,5901.07,6,"Neha Reddy",Mumbai,Unknown,35406.42
+ORD-10133,2024-08-23,Sunscreen,Beauty,741.96,2,"Pooja Iyer",Lucknow,"Net Banking",1483.92
+ORD-10134,2023-08-04,Jacket,Clothing,417.66,1,"Sneha Gupta",Hyderabad,"Cash on Delivery",417.66
+ORD-10136,2022-12-12,Hoodie,Clothing,3155.13,5,"Arjun Mehta",Ahmedabad,"Net Banking",15775.65
+ORD-10139,2022-10-07,Laptop,Electronics,66984.14,4,"Amit Singh",Indore,Wallet,267936.56
+ORD-10140,2023-03-26,"Study Chair",Furniture,12365.66,4,"Rajesh Nair",Mumbai,UPI,49462.64
+ORD-10141,2022-11-28,Dal,Grocery,455.16,3,"Rahul Sharma",Bangalore,"Credit Card",1365.48
+ORD-10142,2022-05-02,Shampoo,Beauty,1807.67,1,"Rohit Verma",Kanpur,"Net Banking",1807.67
+ORD-10143,2024-10-04,Jeans,Clothing,2485.98,6,"Deepak Pandey",Jaipur,Unknown,14915.88
+ORD-10144,2022-08-28,Smartwatch,Electronics,39204.59,1,"Manoj Tiwari",Pune,EMI,39204.59
+ORD-10145,2022-02-11,Hoodie,Clothing,3619.53,8,"Rajesh Nair",Bangalore,"Credit Card",28956.24
+ORD-10146,2024-12-11,Sugar,Grocery,518.24,10,"Manoj Tiwari",Surat,"Cash on Delivery",5182.40
+ORD-10147,2022-12-04,"Yoga Mat",Sports,7731.60,7,"Meera Kapoor",Lucknow,Wallet,54121.20
+ORD-10148,2023-06-27,Wardrobe,Furniture,23674.64,4,"Deepak Pandey",Pune,"Net Banking",94698.56
+ORD-10149,2023-03-22,Kurta,Clothing,2248.47,5,"Neha Reddy",Delhi,"Credit Card",11242.35
+ORD-10150,2022-09-02,Jeans,Clothing,2273.01,6,"Lakshmi Pillai",Jaipur,"Cash on Delivery",13638.06
+ORD-10151,2024-07-28,"Hair Oil",Beauty,454.47,6,"Harish Yadav",Mumbai,UPI,2726.82
+ORD-10152,2022-03-22,"Badminton Racket",Sports,1822.93,9,"Neha Reddy",Hyderabad,Wallet,16406.37
+ORD-10153,2022-05-19,Kurta,Clothing,4257.79,6,"Divya Joshi",Nagpur,"Net Banking",25546.74
+ORD-10154,2024-05-11,Smartwatch,Electronics,2946.54,5,"Ananya Das",Mumbai,"Debit Card",14732.70
+ORD-10155,2022-12-17,Coffee,Grocery,102.19,1,"Arjun Mehta",Pune,"Net Banking",102.19
+ORD-10156,2024-06-25,"Remote Car",Toys,1427.79,5,"Lakshmi Pillai",Surat,"Credit Card",7138.95
+ORD-10157,2022-11-03,Tablet,Electronics,13801.14,10,"Vikram Rao",Ahmedabad,EMI,138011.40
+ORD-10158,2023-04-25,"Comic Book",Books,949.91,7,"Kiran Bhat",Delhi,UPI,6649.37
+ORD-10159,2023-09-22,"Fiction Novel",Books,496.55,10,"Pooja Iyer",Mumbai,"Debit Card",4965.50
+ORD-10160,2023-04-25,Cookbook,Books,176.69,4,"Rohit Verma",Nagpur,UPI,706.76
+ORD-10161,2024-07-06,"Badminton Racket",Sports,2063.77,8,"Rohit Verma",Pune,"Cash on Delivery",16510.16
+UNKNOWN,2024-07-19,Monitor,Electronics,78338.23,6,"Manoj Tiwari",Kanpur,EMI,470029.38
+ORD-10164,2023-03-26,"Self-Help Book",Books,261.24,1,"Rajesh Nair",Ahmedabad,Wallet,261.24
+ORD-10165,2022-07-19,"Face Cream",Beauty,1366.46,2,"Manoj Tiwari",Jaipur,"Credit Card",2732.92
+ORD-10166,2023-03-03,"Self-Help Book",Books,1144.13,4,"Kiran Bhat",Lucknow,"Debit Card",4576.52
+ORD-10167,2022-02-05,Cabinet,Furniture,18770.01,3,"Vikram Rao",Hyderabad,"Debit Card",56310.03
+ORD-10168,2023-10-25,"Cooking Oil",Grocery,182.86,8,"Lakshmi Pillai",Ahmedabad,EMI,1462.88
+ORD-10169,2022-08-15,"Hair Oil",Beauty,1016.80,8,"Meera Kapoor",Chennai,Wallet,8134.40
+ORD-10170,2022-05-15,Dumbbells,Sports,1125.73,9,"Deepak Pandey",Mumbai,"Credit Card",10131.57
+ORD-10171,2024-10-17,Perfume,Beauty,322.52,2,"Manoj Tiwari",Ahmedabad,"Cash on Delivery",645.04
+ORD-10172,2024-04-11,Monitor,Electronics,77314.72,10,"Rajesh Nair",Ahmedabad,"Cash on Delivery",773147.20
+ORD-10174,2024-09-20,Bookshelf,Furniture,23012.40,8,"Kavya Nair",Kolkata,UPI,184099.20
+ORD-10175,2024-10-02,"Yoga Mat",Sports,6308.91,6,"Meera Kapoor",Lucknow,UPI,37853.46
+ORD-10176,2023-05-24,Kurta,Clothing,653.63,7,"Tarun Bansal",Bhopal,"Cash on Delivery",4575.41
+ORD-10177,2023-05-21,Tea,Grocery,111.13,3,"Simran Kaur",Lucknow,"Net Banking",333.39
+ORD-10178,2024-06-27,"Cooking Oil",Grocery,282.19,7,"Rohit Verma",Lucknow,EMI,1975.33
+ORD-10180,2022-02-10,"LEGO Set",Toys,1967.04,3,"Sneha Gupta",Jaipur,Wallet,5901.12
+ORD-10181,2022-10-13,Camera,Electronics,74555.19,10,"Rohit Verma",Bangalore,"Debit Card",745551.90
+ORD-10182,2023-03-07,Spices,Grocery,82.77,6,"Deepak Pandey",Surat,UPI,496.62
+ORD-10183,2023-04-12,"LEGO Set",Toys,4365.29,5,"Tarun Bansal",Surat,"Net Banking",21826.45
+ORD-10184,2024-07-06,"Remote Car",Toys,6269.37,9,"Arjun Mehta",Nagpur,"Cash on Delivery",56424.33
+ORD-10185,2024-06-10,Sugar,Grocery,89.13,8,"Simran Kaur",Indore,"Cash on Delivery",713.04
+ORD-10186,2023-08-17,Shoes,Clothing,602.60,3,"Rohit Verma",Indore,"Net Banking",1807.80
+ORD-10187,2022-07-02,Dress,Clothing,4120.18,6,"Manoj Tiwari",Jaipur,Unknown,24721.08
+ORD-10188,2022-01-11,Wardrobe,Furniture,49737.22,6,"Sneha Gupta",Indore,EMI,298423.32
+ORD-10189,2023-12-27,Shampoo,Beauty,499.04,5,"Rohit Verma",Nagpur,EMI,2495.20
+ORD-10190,2022-05-07,Doll,Toys,4999.72,2,"Rohit Verma",Jaipur,EMI,9999.44
+ORD-10191,2023-02-02,"Fiction Novel",Books,1186.64,4,"Divya Joshi",Pune,EMI,4746.56
+ORD-10192,2024-09-01,"Board Game",Toys,1064.69,8,"Meera Kapoor",Jaipur,"Cash on Delivery",8517.52
+ORD-10193,2022-10-12,Bookshelf,Furniture,8891.69,7,"Divya Joshi",Surat,"Net Banking",62241.83
+ORD-10195,2024-07-12,Speaker,Electronics,74296.51,1,"Vikram Rao",kanpur,"Credit Card",74296.51
+ORD-10196,2024-12-25,"Face Cream",Beauty,1099.93,2,"Suresh Kumar",Bangalore,"Credit Card",2199.86
+ORD-10197,2024-08-23,Sunscreen,Beauty,1081.79,3,"Neha Reddy",Lucknow,"Debit Card",3245.37
+ORD-10198,2022-05-07,"Cooking Oil",Grocery,587.03,8,"Priya Patel",Nagpur,EMI,4696.24
+ORD-10199,2023-09-16,Camera,Electronics,79369.85,9,"Vikram Rao",Mumbai,Wallet,714328.65
+ORD-10200,2024-06-09,"Bed Frame",Furniture,19134.76,1,"Sneha Gupta",Nagpur,UPI,19134.76
+ORD-10201,2023-03-16,"Comic Book",Books,1140.63,7,"Simran Kaur",Ahmedabad,UPI,7984.41
+ORD-10202,2023-10-27,"Cricket Bat",Sports,10988.10,2,"Kavya Nair",JAIPUR,UPI,21976.20
+ORD-10203,2023-08-20,"Face Cream",Beauty,332.20,5,"Simran Kaur",Pune,"Debit Card",1661.00
+ORD-10204,2024-07-09,"Remote Car",Toys,3687.61,6,"Meera Kapoor",Nagpur,"Credit Card",22125.66
+ORD-10205,2022-03-28,Saree,Clothing,1943.89,3,"Rajesh Nair",Lucknow,"Debit Card",5831.67
+ORD-10206,2024-06-12,"Board Game",Toys,1184.59,4,"Manoj Tiwari",Surat,"Credit Card",4738.36
+ORD-10207,2023-02-19,Spices,Grocery,761.62,6,"Rohit Verma",Jaipur,UPI,4569.72
+ORD-10209,2024-08-07,Cookbook,Books,264.87,5,"Rajesh Nair",Chennai,EMI,1324.35
+ORD-10210,2023-03-23,"LEGO Set",Toys,1156.57,2,"Deepak Pandey",Delhi,Wallet,2313.14
+ORD-10211,2024-09-10,"Hair Oil",Beauty,1107.53,2,"Pooja Iyer",Indore,"Debit Card",2215.06
+ORD-10212,2022-03-08,Tea,Grocery,431.57,2,"Neha Reddy",Mumbai,UPI,863.14
+ORD-10213,2022-10-03,Lipstick,Beauty,2430.62,9,"Amit Singh",Chennai,"Net Banking",21875.58
+ORD-10214,2024-02-05,Puzzle,Toys,3404.20,7,"Suresh Kumar",Lucknow,"Credit Card",23829.40
+ORD-10215,2022-09-21,Doll,Toys,5504.85,6,"Lakshmi Pillai",BANGALORE,Wallet,33029.10
+ORD-10216,2022-09-05,Coffee,Grocery,427.15,1,"Pooja Iyer",Bangalore,"Debit Card",427.15
+ORD-10217,2023-02-09,"Hair Oil",Beauty,753.86,9,"Arjun Mehta",Lucknow,"Cash on Delivery",6784.74
+ORD-10218,2024-04-03,Football,Sports,9487.83,10,"Meera Kapoor",Bangalore,"Cash on Delivery",94878.30
+ORD-10219,2023-10-02,Dal,Grocery,544.05,10,"Rahul Sharma",Dehli,"Credit Card",5440.50
+ORD-10220,2023-10-21,Cycle,Sports,3398.88,10,"Rahul Sharma",Ahmedabad,EMI,33988.80
+ORD-10221,2022-11-13,Cycle,Sports,14362.76,8,"Pooja Iyer",Ahmedabad,"Credit Card",114902.08
+ORD-10222,2023-04-11,Tablet,Electronics,37646.66,8,"Rajesh Nair",Bangalore,UPI,301173.28
+ORD-10223,2023-03-25,"Hair Oil",Beauty,2965.27,6,"Ananya Das",Jaipur,"Cash on Delivery",17791.62
+ORD-10224,2023-08-08,Kurta,Clothing,1360.34,2,"Rohit Verma",Delhi,"Credit Card",2720.68
+ORD-10225,2022-03-27,"Yoga Mat",Sports,13003.21,7,"Suresh Kumar",Bhopal,"Cash on Delivery",91022.47
+ORD-10226,2024-08-16,Shampoo,Beauty,2313.05,8,"Pooja Iyer",Ahmedabad,"Credit Card",18504.40
+ORD-10227,2022-10-12,Saree,Clothing,2626.13,4,"Priya Patel",Mumbai,UPI,10504.52
+ORD-10228,2024-03-15,Puzzle,Toys,7082.25,8,"Sneha Gupta",Pune,"Debit Card",56658.00
+ORD-10229,2023-01-13,Cycle,Sports,5676.93,7,"Priya Patel",Surat,"Cash on Delivery",39738.51
+ORD-10230,2023-09-15,"Bed Frame",Furniture,28554.70,2,"Bhavna Desai",Jaipur,UPI,57109.40
+ORD-10231,2023-06-18,Jacket,Clothing,4880.40,7,"Ananya Das",Nagpur,"Debit Card",34162.80
+ORD-10232,2022-01-02,"Study Chair",Furniture,26437.88,9,"Rohit Verma",Kanpur,UPI,237940.92
+ORD-10233,2024-03-11,Puzzle,Toys,3764.51,10,"Rajesh Nair",Kolkata,"Debit Card",37645.10
+ORD-10234,2024-06-17,Cookbook,Books,1135.05,5,"Kiran Bhat",Jaipur,"Net Banking",5675.25
+ORD-10235,2023-11-04,"Yoga Mat",Sports,12291.51,6,"Riya Shah",Surat,UPI,73749.06
+ORD-10236,2024-04-23,Monitor,Electronics,22937.32,10,"Priya Patel",Surat,"Net Banking",229373.20
+ORD-10237,2024-03-13,Coffee,Grocery,160.83,4,"Sneha Gupta",Hyderabad,"Credit Card",643.32
+ORD-10238,2024-04-14,"Remote Car",Toys,3466.49,7,"Kiran Bhat",Nagpur,"Cash on Delivery",24265.43
+ORD-10239,2024-04-18,"Action Figure",Toys,5873.74,3,"Suresh Kumar",Lucknow,"Net Banking",17621.22
+ORD-10240,2024-06-18,"Self-Help Book",Books,1439.36,8,"Ananya Das",Lucknow,Wallet,11514.88
+ORD-10241,2023-09-10,Dumbbells,Sports,7417.45,4,"Divya Joshi",Chennai,Wallet,29669.80
+ORD-10242,2023-08-12,Cycle,Sports,3346.98,8,"Sanjay Mishra",Bhopal,Wallet,26775.84
+ORD-10243,2023-07-27,"Badminton Racket",Sports,2091.55,9,"Ananya Das",Nagpur,Wallet,18823.95
+ORD-10244,2023-08-21,Sugar,Grocery,81.55,2,"Vikram Rao",Kanpur,"Net Banking",163.10
+ORD-10245,2024-12-09,"Dining Table",Furniture,41741.68,5,"Rohit Verma",Delhi,"Cash on Delivery",208708.40
+ORD-10246,2022-11-08,"Dining Table",Furniture,4436.74,9,"Priya Patel",Delhi,"Net Banking",39930.66
+ORD-10247,2022-09-06,"Hair Oil",Beauty,1469.97,3,"Riya Shah",Lucknow,"Net Banking",4409.91
+ORD-10248,2023-05-21,"Action Figure",Toys,1755.76,5,"Priya Patel",Bhopal,Wallet,8778.80
+ORD-10249,2022-07-27,Dress,Clothing,2768.73,1,"Kavya Nair",Bhopal,"Credit Card",2768.73
+ORD-10250,2022-01-10,"Comic Book",Books,360.84,5,"Lakshmi Pillai",Surat,"Credit Card",1804.20
+ORD-10251,2024-08-05,Perfume,Beauty,1417.61,9,"Kiran Bhat",Ahmedabad,"Credit Card",12758.49
+ORD-10252,2024-08-21,Cabinet,Furniture,7407.04,3,"Vikram Rao",kanpur,"Debit Card",22221.12
+ORD-10253,2024-04-06,Camera,Electronics,67319.87,10,"Rajesh Nair",Indore,EMI,673198.70
+ORD-10256,2022-11-04,Smartwatch,Electronics,55736.24,4,"Deepak Pandey",Chennai,"Debit Card",222944.96
+ORD-10257,2024-02-21,Biography,Books,803.53,5,"Pooja Iyer",Kolkata,Unknown,4017.65
+ORD-10258,2023-12-24,"Dining Table",Furniture,47953.31,8,"Rajesh Nair",kolkata,"Net Banking",383626.48
+ORD-10259,2022-11-25,Puzzle,Toys,6455.56,4,"Rajesh Nair",Indore,Wallet,25822.24
+ORD-10260,2023-08-06,Hoodie,Clothing,2735.23,6,"Priya Patel",Indore,"Cash on Delivery",16411.38
+ORD-10261,2023-09-15,"Study Chair",Furniture,27759.69,3,"Sneha Gupta",lucknow,"Debit Card",83279.07
+ORD-10262,2022-08-05,"Board Game",Toys,7211.34,8,"Kiran Bhat",Pune,"Net Banking",57690.72
+ORD-10264,2023-12-03,"Study Chair",Furniture,5505.42,7,"Sanjay Mishra",Mumbai,"Credit Card",38537.94
+ORD-10265,2022-11-24,"Board Game",Toys,2439.31,3,"Meera Kapoor",Pune,UPI,7317.93
+ORD-10266,2023-02-22,"Comic Book",Books,1317.47,7,"Tarun Bansal",Indore,"Cash on Delivery",9222.29
+ORD-10267,2023-09-05,Tea,Grocery,138.97,9,"Harish Yadav",Hyderabad,Wallet,1250.73
+ORD-10268,2024-12-18,Laptop,Electronics,83182.46,8,"Riya Shah",Jaipur,"Net Banking",665459.68
+ORD-10269,2023-04-24,"Dining Table",Furniture,24110.01,3,"Bhavna Desai",Delhi,"Credit Card",72330.03
+ORD-10270,2022-04-03,Cookbook,Books,1172.47,1,"Sneha Gupta",Surat,"Credit Card",1172.47
+ORD-10271,2022-12-02,Puzzle,Toys,5441.78,1,"Manoj Tiwari",Ahmedabad,"Debit Card",5441.78
+UNKNOWN,2022-05-05,Sunscreen,Beauty,1833.96,6,"Tarun Bansal",Jaipur,"Debit Card",11003.76
+ORD-10275,2024-06-23,"Board Game",Toys,7783.86,7,"Riya Shah",Pune,"Debit Card",54487.02
+ORD-10276,2023-04-28,"Yoga Mat",Sports,3003.02,9,"Divya Joshi",Chennai,Wallet,27027.18
+ORD-10277,2023-07-18,Spices,Grocery,736.06,9,"Kiran Bhat",Bangalore,"Net Banking",6624.54
+ORD-10278,2024-05-08,"Bed Frame",Furniture,11760.16,2,"Sanjay Mishra",Kanpur,Wallet,23520.32
+UNKNOWN,2024-01-28,Sofa,Furniture,14886.16,10,"Amit Singh",Hyderabad,Wallet,148861.60
+ORD-10280,2023-01-07,Wardrobe,Furniture,12026.68,6,"Arjun Mehta",Kanpur,"Credit Card",72160.08
+ORD-10282,2023-05-12,"Comic Book",Books,847.11,6,"Kiran Bhat",Bhopal,"Net Banking",5082.66
+ORD-10283,2023-04-12,"Board Game",Toys,6461.97,8,"Suresh Kumar",Pune,"Credit Card",51695.76
+ORD-10284,2024-10-19,Bookshelf,Furniture,9004.29,5,"Harish Yadav",Pune,UPI,45021.45
+ORD-10285,2024-04-16,"Wheat Flour",Grocery,297.40,7,"Sanjay Mishra",Lucknow,EMI,2081.80
+ORD-10286,2024-11-24,Perfume,Beauty,2313.75,8,"Neha Reddy",Ahmedabad,"Debit Card",18510.00
+ORD-10287,2023-03-18,Shampoo,Beauty,505.88,9,"Meera Kapoor",Mumbai,"Cash on Delivery",4552.92
+ORD-10288,2022-07-05,Smartphone,Electronics,80368.40,1,"Meera Kapoor",Hyderabad,"Credit Card",80368.40
+ORD-10289,2023-01-20,"Rice (5kg)",Grocery,214.04,8,"Meera Kapoor",Lucknow,Unknown,1712.32
+ORD-10291,2024-12-22,Dumbbells,Sports,14668.95,1,"Riya Shah",Nagpur,"Debit Card",14668.95
+ORD-10292,2022-10-17,Jeans,Clothing,2717.05,4,"Vikram Rao",INDORE,UPI,10868.20
+ORD-10293,2023-10-08,"Yoga Mat",Sports,1461.58,7,"Simran Kaur",Hyderabad,UPI,10231.06
+ORD-10294,2023-09-16,T-Shirt,Clothing,648.80,7,"Priya Patel",Lucknow,"Credit Card",4541.60
+ORD-10295,2024-06-19,"Cooking Oil",Grocery,424.89,7,"Sneha Gupta",Bhopal,"Cash on Delivery",2974.23
+ORD-10296,2022-11-04,Headphones,Electronics,18364.74,10,"Amit Singh",Lucknow,UPI,183647.40
+ORD-10297,2022-04-19,Tablet,Electronics,78980.76,6,"Rohit Verma",Nagpur,Wallet,473884.56
+ORD-10298,2022-10-27,"Fiction Novel",Books,518.99,10,"Manoj Tiwari",Lucknow,"Cash on Delivery",5189.90
+ORD-10299,2024-12-03,Lipstick,Beauty,2291.27,3,"Kiran Bhat",Kanpur,UPI,6873.81
+ORD-10300,2023-10-25,Smartphone,Electronics,37433.96,2,"Rajesh Nair",Surat,"Net Banking",74867.92
+ORD-10301,2023-04-12,"Face Cream",Beauty,1938.96,8,"Sanjay Mishra",Pune,"Net Banking",15511.68
+ORD-10302,2023-04-23,Coffee,Grocery,114.27,10,"Amit Singh",Delhi,UPI,1142.70
+ORD-10303,2024-07-11,Coffee,Grocery,583.76,3,"Ananya Das",Delhi,"Credit Card",1751.28
+ORD-10304,2022-03-03,Smartwatch,Electronics,38080.18,5,"Kavya Nair",Pune,"Net Banking",190400.90
+ORD-10305,2024-02-20,"Fiction Novel",Books,136.77,6,"Rajesh Nair",Nagpur,UPI,820.62
+ORD-10306,2022-12-18,"Fiction Novel",Books,508.59,7,"Divya Joshi",Surat,"Cash on Delivery",3560.13
+ORD-10307,2023-05-16,Coffee,Grocery,177.13,5,"Rohit Verma",Delhi,"Debit Card",885.65
+ORD-10308,2022-06-09,"Self-Help Book",Books,689.54,8,"Divya Joshi",Kanpur,EMI,5516.32
+ORD-10309,2022-03-10,Puzzle,Toys,5010.02,8,"Rahul Sharma",Pune,UPI,40080.16
+ORD-10310,2024-10-05,"Self-Help Book",Books,716.31,7,"Unknown Customer",Kolkata,"Cash on Delivery",5014.17
+ORD-10311,2023-05-24,Wardrobe,Furniture,17080.80,7,"Simran Kaur",Lucknow,"Net Banking",119565.60
+ORD-10312,2023-02-19,"Bed Frame",Furniture,20050.65,7,"Arjun Mehta",Surat,"Cash on Delivery",140354.55
+ORD-10313,2024-04-15,"Rice (5kg)",Grocery,764.75,8,"Pooja Iyer",Indore,EMI,6118.00
+ORD-10314,2024-05-08,Saree,Clothing,3430.29,3,"Vikram Rao",Lucknow,"Debit Card",10290.87
+ORD-10315,2023-10-13,"Comic Book",Books,203.55,10,"Sanjay Mishra",Jaipur,Wallet,2035.50
+ORD-10316,2024-09-20,Cookbook,Books,151.47,6,"Meera Kapoor",Bhopal,"Credit Card",908.82
+ORD-10317,2022-11-20,Dress,Clothing,3356.49,6,"Priya Patel",Surat,EMI,20138.94
+ORD-10318,2022-01-04,"Self-Help Book",Books,1452.00,7,"Vikram Rao",hyderabad,"Cash on Delivery",10164.00
+ORD-10319,2024-10-23,Wardrobe,Furniture,19957.74,8,"Kiran Bhat",Bangalore,UPI,159661.92
+ORD-10320,2022-02-27,Monitor,Electronics,9334.42,7,"Harish Yadav",Bangalore,UPI,65340.94
+ORD-10321,2024-08-12,"Badminton Racket",Sports,6993.39,4,"Neha Reddy",Delhi,"Net Banking",27973.56
+ORD-10322,2024-02-01,"Remote Car",Toys,723.96,1,"Suresh Kumar",Lucknow,"Credit Card",723.96
+ORD-10323,2022-06-18,"Wheat Flour",Grocery,437.00,9,"Riya Shah",Ahmedabad,"Debit Card",3933.00
+ORD-10324,2023-01-24,Biography,Books,358.23,7,"Rajesh Nair",Bhopal,"Debit Card",2507.61
+ORD-10325,2024-04-07,Puzzle,Toys,3550.51,1,"Vikram Rao",Nagpur,EMI,3550.51
+ORD-10326,2022-06-11,Jeans,Clothing,4037.61,9,"Arjun Mehta",Ahmedabad,"Credit Card",36338.49
+ORD-10327,2024-06-20,Cycle,Sports,12980.76,9,"Manoj Tiwari",Surat,"Net Banking",116826.84
+ORD-10328,2024-03-27,Kurta,Clothing,1889.53,8,"Tarun Bansal",Kanpur,Wallet,15116.24
+ORD-10329,2023-02-08,Dumbbells,Sports,8975.47,3,"Pooja Iyer",Delhi,"Debit Card",26926.41
+ORD-10331,2024-03-16,Spices,Grocery,526.63,3,"Pooja Iyer",Bangalore,"Debit Card",1579.89
+ORD-10332,2022-08-05,Lipstick,Beauty,1896.29,6,"Arjun Mehta",Indore,"Net Banking",11377.74
+ORD-10333,2024-08-16,Doll,Toys,5540.63,7,"Kavya Nair",Delhi,"Cash on Delivery",38784.41
+ORD-10334,2022-09-10,Headphones,Electronics,25181.60,5,"Kavya Nair",Nagpur,"Net Banking",125908.00
+ORD-10335,2022-05-25,Puzzle,Toys,4184.29,10,"Sanjay Mishra",Indore,UPI,41842.90
+ORD-10336,NULL,Monitor,Electronics,46666.85,7,"Meera Kapoor",Nagpur,"Debit Card",326667.95
+ORD-10337,2022-08-28,"Cricket Bat",Sports,6911.07,6,"Sneha Gupta",Nagpur,Wallet,41466.42
+ORD-10338,2024-06-28,"Dining Table",Furniture,40913.73,10,"Simran Kaur",Surat,EMI,409137.30
+ORD-10339,2022-01-19,Textbook,Books,962.61,4,"Ananya Das",Jaipur,UPI,3850.44
+ORD-10340,2023-10-09,Tea,Grocery,784.25,5,"Kiran Bhat",Bhopal,EMI,3921.25
+ORD-10341,2022-05-28,Jacket,Clothing,4821.31,7,"Meera Kapoor",Bangalore,EMI,33749.17
+ORD-10342,2022-11-13,"Wheat Flour",Grocery,159.68,6,"Neha Reddy",Bangalore,"Cash on Delivery",958.08
+UNKNOWN,2022-11-26,Cycle,Sports,6389.11,8,"Bhavna Desai",Delhi,"Net Banking",51112.88
+ORD-10344,2023-08-11,Cycle,Sports,14064.14,6,"Lakshmi Pillai",Mumbai,Wallet,84384.84
+ORD-10345,2022-09-13,Hoodie,Clothing,3247.23,6,"Arjun Mehta",Pune,Wallet,19483.38
+ORD-10346,2023-09-19,Wardrobe,Furniture,14889.77,5,"Rohit Verma",Surat,Wallet,74448.85
+ORD-10347,2022-02-21,"Remote Car",Toys,7174.41,1,"Deepak Pandey",Mumbai,"Credit Card",7174.41
+ORD-10348,2022-12-05,Spices,Grocery,392.39,7,"Meera Kapoor",Chennai,"Debit Card",2746.73
+ORD-10349,2022-06-22,"Cricket Bat",Sports,9922.44,5,"Meera Kapoor",bangalore,"Credit Card",49612.20
+ORD-10350,2023-11-03,Biography,Books,527.71,4,"Simran Kaur",Delhi,"Credit Card",2110.84
+ORD-10352,2024-03-16,"Face Cream",Beauty,2965.65,7,"Amit Singh",Hyderabad,"Net Banking",20759.55
+ORD-10353,2023-03-13,Jeans,Clothing,695.37,6,"Bhavna Desai",Indore,Wallet,4172.22
+ORD-10354,2022-10-21,Dal,Grocery,101.31,10,"Kavya Nair",Ahmedabad,UPI,1013.10
+ORD-10355,2024-11-15,Bookshelf,Furniture,37916.90,7,"Arjun Mehta",Delhi,Unknown,265418.30
+ORD-10356,2023-07-11,"Cooking Oil",Grocery,492.18,7,"Rohit Verma",Hyderabad,UPI,3445.26
+ORD-10357,2024-10-10,Dress,Clothing,2856.30,10,"Bhavna Desai",Kanpur,"Credit Card",28563.00
+ORD10358,2022-12-13,Football,Sports,7910.91,9,"Pooja Iyer",Lucknow,"Credit Card",71198.19
+ORD-10360,2023-06-18,Perfume,Beauty,482.75,10,"Tarun Bansal",Bangalore,Wallet,4827.50
+ORD-10361,NULL,"Board Game",Toys,330.18,2,"Priya Patel",Bhopal,"Credit Card",660.36
+ORD-10362,2023-07-23,Cookbook,Books,501.08,9,"Manoj Tiwari",Delhi,EMI,4509.72
+ORD-10363,2024-04-26,Sugar,Grocery,112.70,2,"Rohit Verma",Jaipur,UPI,225.40
+ORD-10364,2023-12-14,Cookbook,Books,988.01,2,"Harish Yadav",Indore,"Debit Card",1976.02
+ORD-10365,2022-08-20,Headphones,Electronics,7784.98,7,"Rajesh Nair",Mumbai,UPI,54494.86
+ORD-10366,2024-01-06,"Cooking Oil",Grocery,59.50,3,"Neha Reddy",Kolkata,"Cash on Delivery",178.50
+ORD-10367,2024-02-25,Football,Sports,5766.48,5,"Rahul Sharma",Kolkata,Wallet,28832.40
+ORD-10368,2024-10-21,"Self-Help Book",Books,833.40,5,"Amit Singh",Ahmedabad,"Net Banking",4167.00
+ORD-10369,2022-06-06,"Face Cream",Beauty,1548.87,10,"Vikram Rao",Nagpur,"Credit Card",15488.70
+ORD-10370,2022-01-08,Dress,Clothing,3755.74,1,"Priya Patel",ahmedabad,UPI,3755.74
+ORD-10371,2024-12-24,Textbook,Books,350.55,1,"Meera Kapoor",Pune,"Debit Card",350.55
+ORD-10372,2023-02-19,Shampoo,Beauty,1307.14,6,"Ananya Das",Delhi,"Cash on Delivery",7842.84
+ORD-10373,2022-07-03,Tablet,Electronics,19359.14,9,"Deepak Pandey",Indore,UPI,174232.26
+ORD-10374,2022-06-07,"Badminton Racket",Sports,1569.87,8,"Pooja Iyer",Surat,Wallet,12558.96
+ORD-10375,2023-10-16,Cycle,Sports,9453.95,8,"Bhavna Desai","Unknown City","Debit Card",75631.60
+ORD-10376,2022-04-18,"Dining Table",Furniture,2306.14,7,"Ananya Das",Lucknow,Wallet,16142.98
+ORD-10377,2024-12-10,Camera,Electronics,623.54,7,"Sneha Gupta",Hyderabad,"Cash on Delivery",4364.78
+ORD-10378,2022-12-09,Wardrobe,Furniture,25617.39,1,"Amit Singh",Mumbai,"Debit Card",25617.39
+ORD-10379,2024-02-19,Biography,Books,1353.81,8,"Sneha Gupta",Jaipur,"Debit Card",10830.48
+ORD-10380,2023-11-05,"Fiction Novel",Books,928.65,1,"Divya Joshi",Chennai,UPI,928.65
+ORD-10381,2023-08-09,Lipstick,Beauty,2132.10,6,"Divya Joshi",Dehli,"Debit Card",12792.60
+ORD-10382,2023-08-11,"Cooking Oil",Grocery,166.56,3,"Riya Shah",Delhi,"Cash on Delivery",499.68
+ORD-10383,2023-02-03,Shampoo,Beauty,1410.56,8,"Kavya Nair",Nagpur,EMI,11284.48
+ORD-10384,2022-06-05,Cycle,Sports,10544.11,1,"Amit Singh",Kanpur,"Credit Card",10544.11
+ORD-10386,2022-01-02,Sofa,Furniture,24178.08,3,"Bhavna Desai",Hyderabad,"Debit Card",72534.24
+ORD-10387,2024-10-09,Cabinet,Furniture,21227.93,2,"Amit Singh",Mumbai,"Credit Card",42455.86
+ORD-10388,2023-11-13,Bookshelf,Furniture,23284.70,3,"Priya Patel",Ahmedabad,"Credit Card",69854.10
+ORD-10389,2023-01-13,Coffee,Grocery,666.26,7,"Tarun Bansal",Pune,"Debit Card",4663.82
+ORD-10390,2023-08-05,Shampoo,Beauty,2734.08,5,"Priya Patel",Surat,"Cash on Delivery",13670.40
+ORD-10391,2024-08-02,Bookshelf,Furniture,16165.05,7,"Amit Singh",Chennai,"Net Banking",113155.35
+ORD-10392,2022-11-26,Coffee,Grocery,199.59,9,"Sanjay Mishra",Nagpur,"Credit Card",1796.31
+ORD-10393,2023-06-19,Biography,Books,602.76,9,"Kiran Bhat",Kolkata,"Net Banking",5424.84
+ORD-10394,2022-01-26,Football,Sports,683.13,10,"Bhavna Desai",Chennai,Unknown,6831.30
+ORD-10395,2022-03-04,Puzzle,Toys,2987.98,10,"Divya Joshi",Lucknow,"Debit Card",29879.80
+ORD-10396,2022-10-28,Dumbbells,Sports,12299.39,1,"Manoj Tiwari",Kolkata,Wallet,12299.39
+ORD-10397,2024-12-12,Dal,Grocery,227.41,6,"Lakshmi Pillai",Mumbai,EMI,1364.46
+ORD-10398,2022-08-18,Sunscreen,Beauty,1734.46,10,"Pooja Iyer",Bangalore,"Net Banking",17344.60
+ORD-10399,2022-01-17,Smartphone,Electronics,5246.19,10,"Neha Reddy",Mumbai,UPI,52461.90
+ORD-10400,2023-01-01,Cabinet,Furniture,8263.50,3,"Rohit Verma",Surat,EMI,24790.50
+ORD-10401,2022-06-23,"Cooking Oil",Grocery,684.86,6,"Tarun Bansal",Pune,"Cash on Delivery",4109.16
+ORD-10402,2022-12-14,Kurta,Clothing,1648.47,3,"Meera Kapoor",Ahmedabad,EMI,4945.41
+ORD-10403,2024-10-26,Shampoo,Beauty,2150.83,9,"Ananya Das",Hyderabad,EMI,19357.47
+ORD-10404,NULL,Coffee,Grocery,280.12,5,"Rahul Sharma",Kanpur,"Cash on Delivery",1400.60
+ORD-10405,2023-10-08,Cookbook,Books,145.34,10,"Meera Kapoor",Surat,"Credit Card",1453.40
+ORD-10406,2022-06-11,"LEGO Set",Toys,2783.11,2,"Kavya Nair",Lucknow,"Credit Card",5566.22
+ORD-10407,2022-12-03,Lipstick,Beauty,133.05,4,"Ananya Das",Chennai,Wallet,532.20
+ORD-10408,2024-07-06,T-Shirt,Clothing,431.11,8,"Riya Shah",Ahmedabad,"Net Banking",3448.88
+ORD-10409,2024-11-25,Sunscreen,Beauty,1188.51,8,"Tarun Bansal",Hyderabad,"Debit Card",9508.08
+ORD-10410,2023-01-11,"Board Game",Toys,6433.72,1,"Vikram Rao",Delhi,"Credit Card",6433.72
+ORD-10411,2024-02-18,Shampoo,Beauty,2675.00,3,"Amit Singh",Kolkata,"Cash on Delivery",8025.00
+UNKNOWN,2024-07-06,"Action Figure",Toys,441.75,3,"Priya Patel",Delhi,UPI,1325.25
+ORD-10413,2024-12-18,"Dining Table",Furniture,21645.43,9,"Vikram Rao",Lucknow,UPI,194808.87
+ORD-10414,2024-09-27,Football,Sports,1709.96,7,"Neha Reddy",Bangalore,"Credit Card",11969.72
+ORD-10415,2024-11-20,"Face Cream",Beauty,1340.06,5,"Neha Reddy",Hyderabad,"Credit Card",6700.30
+ORD-10416,2022-08-28,Headphones,Electronics,14935.32,5,"Sneha Gupta",Chennai,Wallet,74676.60
+ORD-10417,2022-11-18,"Comic Book",Books,784.74,5,"Manoj Tiwari",Bangalore,UPI,3923.70
+ORD-10418,2023-08-15,"Self-Help Book",Books,361.22,1,"Unknown Customer",Hyderabad,Unknown,361.22
+ORD-10419,2022-11-12,Dumbbells,Sports,1206.10,2,"Sanjay Mishra",Pune,Wallet,2412.20
+ORD-10420,2024-07-18,"Study Chair",Furniture,4927.22,7,"Tarun Bansal",Indore,"Net Banking",34490.54
+ORD-10421,2024-01-17,Wardrobe,Furniture,16344.90,7,"Lakshmi Pillai","Unknown City","Cash on Delivery",114414.30
+ORD-10422,2022-03-07,"Cooking Oil",Grocery,761.94,8,"Arjun Mehta",Bangalore,"Credit Card",6095.52
+ORD-10423,2022-11-05,"Fiction Novel",Books,1483.59,7,"Rajesh Nair",Chennai,UPI,10385.13
+ORD-10424,2024-06-28,Jeans,Clothing,2062.88,7,"Vikram Rao",Jaipur,"Net Banking",14440.16
+ORD-10425,2022-10-19,Speaker,Electronics,10007.84,3,"Lakshmi Pillai",Nagpur,"Credit Card",30023.52
+ORD-10426,2023-07-09,Jeans,Clothing,3971.58,9,"Manoj Tiwari",Lucknow,"Net Banking",35744.22
+ORD-10427,2022-10-20,"Board Game",Toys,1543.16,7,"Tarun Bansal",Kanpur,"Net Banking",10802.12
+ORD-10428,2024-04-02,Speaker,Electronics,75669.02,6,"Harish Yadav",Ahmedabad,UPI,454014.12
+ORD-10429,2023-05-27,"Face Cream",Beauty,1079.81,5,"Neha Reddy",Indore,EMI,5399.05
+ORD-10430,2023-05-24,Dress,Clothing,845.05,8,"Riya Shah",Surat,EMI,6760.40
+ORD-10431,2024-08-25,Dress,Clothing,2320.24,7,"Kiran Bhat",Indore,UPI,16241.68
+ORD-10432,2023-03-25,Tablet,Electronics,6044.63,9,"Kiran Bhat",Bhopal,"Credit Card",54401.67
+ORD-10433,2022-04-02,Tablet,Electronics,16788.51,4,"Deepak Pandey",Mumbai,UPI,67154.04
+ORD-10434,2024-07-21,"Bed Frame",Furniture,19680.89,8,"Sneha Gupta",Lucknow,"Credit Card",157447.12
+ORD-10436,2023-01-13,Sugar,Grocery,611.72,2,"Priya Patel",Bangalore,Wallet,1223.44
+ORD-10437,2024-04-09,Cabinet,Furniture,12624.85,4,"Meera Kapoor",Pune,"Cash on Delivery",50499.40
+ORD-10438,2024-03-20,Laptop,Electronics,40561.21,3,"Rahul Sharma",Hyderabad,UPI,121683.63
+ORD-10439,2023-07-28,Cycle,Sports,14515.26,5,"Ananya Das",Ahmedabad,UPI,72576.30
+ORD-10441,2023-05-22,Sunscreen,Beauty,1977.29,10,"Sneha Gupta",Ahmedabad,"Credit Card",19772.90
+ORD-10443,2023-11-11,"Wheat Flour",Grocery,724.77,10,"Tarun Bansal",Bangalore,EMI,7247.70
+ORD-10444,2023-07-13,Monitor,Electronics,84786.14,5,"Harish Yadav",Mumbai,"Cash on Delivery",423930.70
+ORD-10445,2024-09-21,"Bed Frame",Furniture,36874.39,4,"Neha Reddy",Bhopal,EMI,147497.56
+ORD-10446,2024-09-06,Sunscreen,Beauty,970.57,3,"Pooja Iyer",Delhi,"Net Banking",2911.71
+ORD-10448,2024-08-26,Shampoo,Beauty,2258.21,5,"Vikram Rao",Surat,UPI,11291.05
+ORD-10449,2024-10-03,"Board Game",Toys,3870.19,10,"Neha Reddy",Bhopal,"Debit Card",38701.90
+ORD-10451,2022-08-11,"LEGO Set",Toys,2667.79,3,"Meera Kapoor",Bangalore,UPI,8003.37
+ORD-10452,2022-10-25,Laptop,Electronics,38698.50,4,"Kavya Nair",Ahmedabad,Wallet,154794.00
+ORD-10453,2023-07-16,Jacket,Clothing,3149.50,7,"Manoj Tiwari",Mumbai,"Credit Card",22046.50
+ORD-10454,2024-12-14,Bookshelf,Furniture,19908.87,1,"Rahul Sharma",Lucknow,"Credit Card",19908.87
+ORD-10455,2023-03-04,"Dining Table",Furniture,35289.19,6,"Manoj Tiwari","Unknown City","Cash on Delivery",211735.14
+ORD-10456,2023-05-15,Football,Sports,1259.72,1,"Harish Yadav",Jaipur,"Cash on Delivery",1259.72
+ORD-10457,2023-07-13,Lipstick,Beauty,2675.12,3,"Bhavna Desai",Hyderabad,"Debit Card",8025.36
+ORD-10458,2024-04-16,"Fiction Novel",Books,419.79,3,"Lakshmi Pillai",Jaipur,"Debit Card",1259.37
+ORD-10459,2023-11-09,Kurta,Clothing,3613.33,1,"Bhavna Desai",Jaipur,"Cash on Delivery",3613.33
+UNKNOWN,2022-12-04,Laptop,Electronics,56436.46,1,"Riya Shah",Ahmedabad,"Net Banking",56436.46
+ORD-10461,2022-12-22,Shoes,Clothing,2477.10,3,"Meera Kapoor",Mumbai,UPI,7431.30
+ORD-10462,2023-10-20,Biography,Books,241.37,9,"Simran Kaur",Bangalore,"Net Banking",2172.33
+ORD-10463,2023-04-20,Jeans,Clothing,1556.99,2,"Arjun Mehta",Nagpur,UPI,3113.98
+ORD-10464,2022-01-18,"Bed Frame",Furniture,35764.96,5,"Neha Reddy",Bhopal,"Debit Card",178824.80
+ORD-10465,2024-02-04,"Remote Car",Toys,2029.14,1,"Lakshmi Pillai",Lucknow,"Net Banking",2029.14
+ORD-10466,2024-12-04,"Cooking Oil",Grocery,634.64,2,"Vikram Rao",Lucknow,"Debit Card",1269.28
+ORD-10467,2022-03-28,"Remote Car",Toys,2260.18,1,"Priya Patel",Indore,UPI,2260.18
+ORD-10468,2022-01-01,"Hair Oil",Beauty,1006.85,2,"Rohit Verma",Lucknow,EMI,2013.70
+ORD-10469,2024-05-24,Tea,Grocery,318.15,8,"Amit Singh","Unknown City",Wallet,2545.20
+ORD-10470,2023-05-27,Shampoo,Beauty,430.11,7,"Manoj Tiwari",Kanpur,Wallet,3010.77
+ORD-10471,2022-03-23,Doll,Toys,5261.00,3,"Harish Yadav",Mumbai,Wallet,15783.00
+ORD-10472,2023-10-22,"Cooking Oil",Grocery,362.02,10,"Deepak Pandey",Bangalore,"Cash on Delivery",3620.20
+ORD-10473,2023-08-04,"Self-Help Book",Books,955.90,3,"Riya Shah",Ahmedabad,"Credit Card",2867.70
+ORD-10474,2024-11-17,Shoes,Clothing,3343.87,1,"Bhavna Desai",Kanpur,"Cash on Delivery",3343.87
+ORD-10475,2024-12-23,Bookshelf,Furniture,43910.89,9,"Rajesh Nair",Delhi,"Net Banking",395198.01
+ORD-10477,2023-07-22,Spices,Grocery,688.90,3,"Divya Joshi",Kolkata,UPI,2066.70
+ORD-10478,2023-04-03,Headphones,Electronics,47016.88,7,"Deepak Pandey",Ahmedabad,EMI,329118.16
+ORD-10479,2023-02-16,"Board Game",Toys,6881.40,8,"Harish Yadav",Lucknow,"Credit Card",55051.20
+ORD-10480,2024-01-27,Saree,Clothing,2179.23,9,"Amit Singh",Nagpur,"Debit Card",19613.07
+ORD-10481,2023-06-27,Dumbbells,Sports,8566.29,8,"Priya Patel",Indore,"Debit Card",68530.32
+ORD-10482,2024-08-23,"Remote Car",Toys,4569.18,10,"Tarun Bansal",Kolkata,EMI,45691.80
+ORD-10483,2022-06-12,"Board Game",Toys,960.01,4,"Meera Kapoor",Nagpur,Unknown,3840.04
+ORD-10486,2022-11-27,Bookshelf,Furniture,18220.81,7,"Tarun Bansal",Surat,"Credit Card",127545.67
+ORD-10487,2022-08-01,Doll,Toys,5335.96,9,"Unknown Customer",Kanpur,"Credit Card",48023.64
+ORD-10488,2022-12-19,Cookbook,Books,776.10,9,"Kavya Nair",Kanpur,Wallet,6984.90
+ORD-10489,2024-06-17,"Cooking Oil",Grocery,340.55,10,"Manoj Tiwari",Pune,"Cash on Delivery",3405.50
+ORD-10490,2023-08-26,"Bed Frame",Furniture,21097.76,6,"Rohit Verma",Bangalore,UPI,126586.56
+ORD-10491,2024-12-18,Cycle,Sports,8352.75,6,"Meera Kapoor",Hyderabad,"Debit Card",50116.50
+ORD-10492,2024-03-23,"Study Chair",Furniture,36290.46,6,"Meera Kapoor",Bangalore,"Cash on Delivery",217742.76
+ORD-10493,2024-08-19,"Hair Oil",Beauty,434.68,6,"Lakshmi Pillai",Lucknow,EMI,2608.08
+ORD-10494,2023-07-26,Biography,Books,1147.02,9,"Rahul Sharma",Jaipur,"Credit Card",10323.18
+ORD-10495,2022-05-25,Speaker,Electronics,12780.11,1,"Kavya Nair",Chennai,EMI,12780.11
+ORD-10496,2022-09-02,Football,Sports,12638.91,5,"Ananya Das","Unknown City","Net Banking",63194.55
+ORD-10497,2023-04-17,Dress,Clothing,3763.58,9,"Simran Kaur",Chennai,EMI,33872.22
+ORD-10499,2024-09-24,"LEGO Set",Toys,7309.59,6,"Rajesh Nair",Hyderabad,Wallet,43857.54
+ORD-10500,2022-03-24,"Bed Frame",Furniture,23543.12,2,"Kiran Bhat",Delhi,"Net Banking",47086.24
+ORD-10501,NULL,Speaker,Electronics,24084.98,5,"Vikram Rao",Mumbai,UPI,120424.90
+ORD-10502,2022-06-20,"Action Figure",Toys,7512.46,1,"Priya Patel",Nagpur,EMI,7512.46
+ORD-10503,2023-02-26,"Yoga Mat",Sports,11911.65,9,"Simran Kaur",Kolkata,"Cash on Delivery",107204.85
+ORD-10504,2022-07-18,"Dining Table",Furniture,26989.10,9,"Sanjay Mishra",Pune,"Credit Card",242901.90
+ORD-10505,2023-06-10,Shampoo,Beauty,2661.85,6,"Arjun Mehta",Nagpur,"Cash on Delivery",15971.10
+ORD-10506,2022-11-12,Puzzle,Toys,6624.77,1,"Deepak Pandey",Hyderabad,EMI,6624.77
+ORD-10507,2023-02-13,Sofa,Furniture,34762.47,6,"Vikram Rao",Jaipur,EMI,208574.82
+ORD-10509,NULL,"Bed Frame",Furniture,26666.95,2,"Rahul Sharma",Lucknow,"Net Banking",53333.90
+ORD-10510,2024-07-27,Bookshelf,Furniture,32216.70,4,"Sneha Gupta",HYDERABAD,"Cash on Delivery",128866.80
+ORD-10511,2024-11-05,Biography,Books,1243.46,2,"Rahul Sharma",Ahmedabad,EMI,2486.92
+ORD-10512,2022-05-18,"Face Cream",Beauty,353.81,1,"Amit Singh",Surat,Wallet,353.81
+ORD-10513,2024-07-14,"Bed Frame",Furniture,21566.37,8,"Suresh Kumar",Mumbai,"Net Banking",172530.96
+ORD-10514,2022-12-19,T-Shirt,Clothing,3278.83,10,"Priya Patel",Kanpur,Wallet,32788.30
+ORD-10516,2023-03-18,Doll,Toys,3281.88,1,"Divya Joshi",Bangalore,EMI,3281.88
+ORD-10517,2023-11-26,Cookbook,Books,512.97,3,"Harish Yadav",Lucknow,UPI,1538.91
+ORD-10518,2024-10-13,Tablet,Electronics,10913.37,1,"Sanjay Mishra",Jaipur,"Credit Card",10913.37
+ORD-10519,2022-07-21,Football,Sports,11299.96,6,"Kiran Bhat",Bangalore,"Debit Card",67799.76
+ORD-10520,2022-02-06,"Wheat Flour",Grocery,512.66,5,"Tarun Bansal",Nagpur,"Cash on Delivery",2563.30
+ORD-10521,2023-11-03,Monitor,Electronics,54975.00,2,"Vikram Rao",Delhi,"Debit Card",109950.00
+ORD-10522,2022-05-20,"Remote Car",Toys,2985.68,4,"Amit Singh",Bhopal,"Debit Card",11942.72
+ORD-10523,2024-05-23,Lipstick,Beauty,1406.87,10,"Lakshmi Pillai",Bangalore,"Cash on Delivery",14068.70
+ORD-10524,2022-06-08,Perfume,Beauty,2880.11,3,"Divya Joshi",Kanpur,EMI,8640.33
+ORD-10526,2022-11-20,Perfume,Beauty,1512.22,2,"Amit Singh",Indore,UPI,3024.44
+ORD-10527,2024-02-01,"Wheat Flour",Grocery,247.43,2,"Kiran Bhat",Lucknow,"Credit Card",494.86
+ORD-10528,2024-05-18,Cookbook,Books,397.86,1,"Sanjay Mishra",Ahmedabad,EMI,397.86
+ORD-10529,2024-05-05,Tea,Grocery,344.37,10,"Deepak Pandey",Jaipur,"Cash on Delivery",3443.70
+ORD-10530,2024-10-12,Saree,Clothing,1946.55,1,"Rajesh Nair",lucknow,"Debit Card",1946.55
+ORD-10531,2024-11-28,Spices,Grocery,169.42,10,"Rohit Verma",Kanpur,EMI,1694.20
+ORD-10532,2022-02-09,"Remote Car",Toys,515.27,8,"Ananya Das",Hyderabad,"Credit Card",4122.16
+ORD-10533,2023-08-15,"Study Chair",Furniture,45570.85,6,"Priya Patel",Mumbai,EMI,273425.10
+ORD-10534,2024-05-27,"Face Cream",Beauty,2140.84,9,"Harish Yadav",Chennai,"Cash on Delivery",19267.56
+ORD-10535,2024-11-27,Coffee,Grocery,540.26,6,"Amit Singh",Jaipur,UPI,3241.56
+ORD-10536,2023-08-26,Textbook,Books,822.92,6,"Neha Reddy",Bhopal,"Cash on Delivery",4937.52
+ORD-10537,2022-09-21,Tablet,Electronics,37671.44,4,"Vikram Rao",Hyderabad,"Debit Card",150685.76
+ORD-10538,2024-04-14,Dal,Grocery,321.67,2,"Suresh Kumar",Kanpur,"Credit Card",643.34
+ORD-10539,2024-03-21,"Action Figure",Toys,3934.75,4,"Riya Shah",Mumbai,"Debit Card",15739.00
+ORD-10540,2022-11-17,Tablet,Electronics,48959.61,3,"Priya Patel",Bhopal,"Cash on Delivery",146878.83
+ORD-10541,2024-07-20,"Rice (5kg)",Grocery,174.76,3,"Lakshmi Pillai",Lucknow,"Credit Card",524.28
+ORD-10542,2023-08-06,"Cricket Bat",Sports,3483.92,10,"Divya Joshi",Indore,"Net Banking",34839.20
+ORD-10543,2023-03-24,Dal,Grocery,517.41,9,"Tarun Bansal",Kolkata,"Net Banking",4656.69
+ORD-10544,2022-01-07,Dress,Clothing,2015.41,3,"Kiran Bhat",Indore,UPI,6046.23
+ORD-10545,2023-10-20,Textbook,Books,947.72,3,"Priya Patel",Bhopal,Wallet,2843.16
+ORD-10546,2024-09-27,Jeans,Clothing,2514.76,3,"Rahul Sharma",Bhopal,Wallet,7544.28
+ORD-10547,2024-09-14,Cookbook,Books,688.96,1,"Divya Joshi",nagpur,"Net Banking",688.96
+ORD-10548,2022-07-05,"Self-Help Book",Books,924.67,10,"Vikram Rao",Ahmedabad,Wallet,9246.70
+ORD-10549,2024-07-09,Cabinet,Furniture,6023.24,10,"Arjun Mehta",Mumbai,EMI,60232.40
+ORD-10550,2024-04-23,Smartphone,Electronics,44419.88,7,"Suresh Kumar",Pune,UPI,310939.16
+ORD-10551,2023-05-28,Jacket,Clothing,2245.14,10,"Sanjay Mishra",Pune,"Cash on Delivery",22451.40
+ORD-10552,2022-07-18,Sunscreen,Beauty,899.13,7,"Sanjay Mishra",Ahmedabad,"Debit Card",6293.91
+ORD-10553,2023-10-12,Sunscreen,Beauty,1709.24,5,"Bhavna Desai",Kanpur,"Net Banking",8546.20
+ORD-10554,2024-03-04,"Cooking Oil",Grocery,610.86,8,"Arjun Mehta",Jaipur,"Net Banking",4886.88
+ORD-10555,2022-07-21,Sunscreen,Beauty,1880.67,1,"Rahul Sharma",NAGPUR,"Credit Card",1880.67
+UNKNOWN,2022-02-09,Spices,Grocery,744.40,7,"Divya Joshi",Kolkata,"Credit Card",5210.80
+ORD-10557,2024-11-17,Speaker,Electronics,79142.88,7,"Pooja Iyer",Kanpur,"Cash on Delivery",554000.16
+ORD-10558,2022-04-28,Tablet,Electronics,54604.62,8,"Tarun Bansal",Bhopal,Wallet,436836.96
+ORD-10559,2024-09-23,Football,Sports,794.06,10,"Divya Joshi",Surat,"Debit Card",7940.60
+ORD-10560,2022-02-09,Camera,Electronics,20717.18,1,"Bhavna Desai",Pune,UPI,20717.18
+ORD-10561,2022-12-23,"Comic Book",Books,920.51,9,"Amit Singh",Bhopal,"Credit Card",8284.59
+ORD-10562,2023-06-27,Cycle,Sports,12497.54,10,"Vikram Rao",Hyderabad,"Cash on Delivery",124975.40
+ORD-10563,2022-05-06,Wardrobe,Furniture,46626.26,10,"Riya Shah",Jaipur,"Credit Card",466262.60
+ORD-10564,2024-05-18,Shoes,Clothing,1831.84,2,"Lakshmi Pillai",Chennai,EMI,3663.68
+ORD-10565,2023-08-22,Doll,Toys,4592.72,4,"Deepak Pandey",Bhopal,"Cash on Delivery",18370.88
+ORD-10566,2023-11-26,Monitor,Electronics,10324.67,2,"Divya Joshi",Lucknow,EMI,20649.34
+ORD-10567,2024-09-01,Cabinet,Furniture,17155.07,6,"Simran Kaur",Indore,UPI,102930.42
+ORD-10569,2023-12-07,"Study Chair",Furniture,14915.64,4,"Unknown Customer",Kanpur,"Debit Card",59662.56
+ORD-10571,2022-08-12,Hoodie,Clothing,3146.37,9,"Rajesh Nair",Kolkata,"Net Banking",28317.33
+ORD-10572,2023-07-08,"Yoga Mat",Sports,2988.22,9,"Bhavna Desai",Surat,EMI,26893.98
+ORD-10573,2022-09-12,Speaker,Electronics,40918.05,9,"Manoj Tiwari",Indore,EMI,368262.45
+ORD-10574,2023-06-23,Spices,Grocery,782.38,9,"Rahul Sharma",Mumbai,EMI,7041.42
+ORD-10575,2023-10-28,Wardrobe,Furniture,29888.39,6,"Vikram Rao",Bangalore,"Cash on Delivery",179330.34
+ORD-10576,2023-06-06,Football,Sports,4260.30,10,"Neha Reddy",Pune,"Debit Card",42603.00
+ORD-10577,2023-05-15,Biography,Books,1153.07,6,"Kavya Nair",SURAT,"Debit Card",6918.42
+ORD-10578,2022-09-14,Cabinet,Furniture,6793.75,5,"Manoj Tiwari",Hyderabad,"Debit Card",33968.75
+ORD-10579,2023-08-05,Spices,Grocery,654.25,3,"Meera Kapoor",Jaipur,"Cash on Delivery",1962.75
+ORD-10580,2024-01-13,Lipstick,Beauty,970.10,9,"Sneha Gupta",Kanpur,"Debit Card",8730.90
+ORD-10581,2024-02-15,Headphones,Electronics,69267.63,8,"Harish Yadav",Kolkata,UPI,554141.04
+ORD-10582,2023-01-14,Perfume,Beauty,1725.02,5,"Sneha Gupta",Kolkata,Wallet,8625.10
+ORD-10583,2022-05-12,"Study Chair",Furniture,29642.93,9,"Suresh Kumar",Lucknow,"Cash on Delivery",266786.37
+ORD-10584,2023-10-10,"Action Figure",Toys,3686.05,2,"Deepak Pandey",Lucknow,"Debit Card",7372.10
+ORD-10585,2024-07-28,Tea,Grocery,366.36,10,"Amit Singh",Delhi,"Debit Card",3663.60
+ORD-10586,2024-05-20,Shampoo,Beauty,1009.10,5,"Meera Kapoor",Pune,UPI,5045.50
+ORD-10587,2023-07-06,"Remote Car",Toys,6033.58,9,"Kavya Nair",Indore,"Credit Card",54302.22
+ORD-10588,2022-03-13,"Wheat Flour",Grocery,546.52,2,"Sneha Gupta",Delhi,"Credit Card",1093.04
+ORD-10589,2024-02-04,Puzzle,Toys,619.84,7,"Vikram Rao",Surat,"Debit Card",4338.88
+ORD-10590,2024-05-15,Saree,Clothing,1684.98,4,"Meera Kapoor","Unknown City","Debit Card",6739.92
+ORD-10591,2023-08-15,"Rice (5kg)",Grocery,76.37,6,"Sanjay Mishra",Bhopal,UPI,458.22
+ORD-10592,2022-10-20,"LEGO Set",Toys,7762.43,9,"Deepak Pandey",Lucknow,EMI,69861.87
+ORD-10593,2023-06-16,Cookbook,Books,995.70,9,"Sanjay Mishra",Hyderabad,Wallet,8961.30
+ORD-10594,2023-03-10,Hoodie,Clothing,1677.77,7,"Rahul Sharma",Mumbai,"Cash on Delivery",11744.39
+ORD-10595,2022-03-11,Tea,Grocery,265.07,9,"Bhavna Desai",Ahmedabad,UPI,2385.63
+ORD-10596,2022-01-18,Speaker,Electronics,67928.02,10,"Ananya Das",Hyderabad,"Net Banking",679280.20
+ORD-10597,2023-04-09,"Comic Book",Books,449.85,7,"Amit Singh",Pune,EMI,3148.95
+ORD-10598,2024-11-09,"Study Chair",Furniture,38697.84,10,"Pooja Iyer",Lucknow,EMI,386978.40
+ORD-10599,2022-03-10,"Yoga Mat",Sports,3063.61,2,"Sneha Gupta",Lucknow,"Net Banking",6127.22
+ORD-10600,2022-06-01,"Remote Car",Toys,5663.69,8,"Rohit Verma",Mumbai,"Cash on Delivery",45309.52
+ORD-10601,2023-03-23,Tablet,Electronics,82662.11,5,"Deepak Pandey",Kanpur,"Credit Card",413310.55
+ORD-10602,2022-06-14,Sofa,Furniture,9232.82,8,"Pooja Iyer",Nagpur,Wallet,73862.56
+ORD-10603,2023-02-27,"Remote Car",Toys,3816.74,1,"Bhavna Desai",Bangalore,"Credit Card",3816.74
+ORD-10604,2022-04-27,"Yoga Mat",Sports,1349.36,8,"Vikram Rao",Indore,"Net Banking",10794.88
+ORD-10605,2023-08-08,Smartphone,Electronics,82853.57,4,"Harish Yadav",Mumbai,"Debit Card",331414.28
+ORD-10606,2024-04-16,"Action Figure",Toys,6213.77,9,"Manoj Tiwari",Lucknow,UPI,55923.93
+ORD-10608,2024-04-04,Football,Sports,5598.27,1,"Divya Joshi",Lucknow,"Net Banking",5598.27
+ORD-10609,2024-02-13,"Face Cream",Beauty,585.35,5,"Divya Joshi",Mumbai,"Credit Card",2926.75
+ORD-10610,2022-04-06,"Action Figure",Toys,4850.46,6,"Neha Reddy",Delhi,EMI,29102.76
+ORD-10612,2024-06-26,Spices,Grocery,224.51,9,"Deepak Pandey",Kanpur,"Debit Card",2020.59
+ORD-10614,2024-03-18,Dumbbells,Sports,10546.46,4,"Ananya Das",Kolkata,EMI,42185.84
+ORD-10616,2022-11-17,"Badminton Racket",Sports,8261.61,8,"Manoj Tiwari",Kanpur,"Debit Card",66092.88
+ORD-10618,2024-03-20,Textbook,Books,833.70,8,"Pooja Iyer",Kolkata,"Net Banking",6669.60
+ORD-10619,2022-03-06,"Face Cream",Beauty,379.14,2,"Priya Patel",Hyderabad,"Credit Card",758.28
+ORD-10620,NULL,"LEGO Set",Toys,970.28,10,"Neha Reddy",Jaipur,"Cash on Delivery",9702.80
+ORD-10621,2024-02-01,"Cricket Bat",Sports,5685.40,10,"Arjun Mehta",Lucknow,"Net Banking",56854.00
+ORD-10622,2023-09-24,Hoodie,Clothing,4044.90,1,"Riya Shah",Indore,UPI,4044.90
+ORD-10623,2023-02-07,Smartwatch,Electronics,45202.26,2,"Kiran Bhat",Delhi,"Credit Card",90404.52
+ORD-10624,2024-11-08,"Study Chair",Furniture,20495.89,4,"Lakshmi Pillai",Lucknow,"Debit Card",81983.56
+ORD-10625,2023-11-15,Biography,Books,247.72,10,"Simran Kaur",Lucknow,"Net Banking",2477.20
+ORD-10626,2023-09-11,Jacket,Clothing,4003.82,9,"Tarun Bansal",Bangalore,"Cash on Delivery",36034.38
+ORD-10627,2023-06-14,"Remote Car",Toys,7239.38,9,"Bhavna Desai",lucknow,"Net Banking",65154.42
+ORD-10628,2022-07-25,Sunscreen,Beauty,798.10,9,"Sanjay Mishra",Bhopal,EMI,7182.90
+ORD-10629,2023-01-24,"Badminton Racket",Sports,14436.28,8,"Priya Patel",Chennai,"Cash on Delivery",115490.24
+ORD-10630,2022-05-08,Tablet,Electronics,84443.31,5,"Arjun Mehta",Indore,UPI,422216.55
+ORD-10631,2024-10-19,Smartwatch,Electronics,78164.97,9,"Rohit Verma",Delhi,"Credit Card",703484.73
+ORD-10633,2022-12-03,"Cricket Bat",Sports,8686.16,10,"Harish Yadav",Kolkata,Wallet,86861.60
+ORD-10634,2022-10-21,"LEGO Set",Toys,4008.56,10,"Pooja Iyer",Mumbai,EMI,40085.60
+ORD-10635,2023-07-14,"Fiction Novel",Books,1192.17,6,"Sneha Gupta",Indore,Wallet,7153.02
+ORD-10636,2023-08-10,Bookshelf,Furniture,33333.40,10,"Meera Kapoor",Pune,"Credit Card",333334.00
+ORD-10637,NULL,Dumbbells,Sports,905.38,9,"Kiran Bhat",Kanpur,"Debit Card",8148.42
+ORD-10638,2023-10-19,"Rice (5kg)",Grocery,555.23,7,"Kiran Bhat",Delhi,"Debit Card",3886.61
+ORD-10639,2022-06-03,"Self-Help Book",Books,1200.92,3,"Neha Reddy",Surat,EMI,3602.76
+ORD-10640,2024-07-25,Speaker,Electronics,22686.15,7,"Simran Kaur",Bangalore,Wallet,158803.05
+ORD-10641,2022-09-21,Spices,Grocery,469.47,8,"Arjun Mehta",Jaipur,"Cash on Delivery",3755.76
+ORD-10642,2023-11-19,"Dining Table",Furniture,5438.91,7,"Amit Singh",Delhi,EMI,38072.37
+ORD-10643,2023-06-20,"Comic Book",Books,611.37,4,"Meera Kapoor",Mumbai,Wallet,2445.48
+ORD-10644,2023-10-05,Football,Sports,14818.48,10,"Deepak Pandey",Mumbai,Wallet,148184.80
+ORD-10645,2024-02-04,"Dining Table",Furniture,34897.24,3,"Harish Yadav",Mumbai,"Credit Card",104691.72
+ORD-10646,2023-08-16,Sugar,Grocery,60.30,2,"Rahul Sharma",Kolkata,"Debit Card",120.60
+ORD-10648,2022-05-06,Speaker,Electronics,49763.92,9,"Priya Patel",Chennai,"Debit Card",447875.28
+ORD-10649,2022-07-22,"Cricket Bat",Sports,7134.92,1,"Vikram Rao",Lucknow,Wallet,7134.92
+ORD-10650,2022-07-17,"Face Cream",Beauty,155.33,7,"Unknown Customer",Delhi,UPI,1087.31
+ORD-10652,2023-06-16,Laptop,Electronics,21404.64,9,"Manoj Tiwari",Kanpur,"Debit Card",192641.76
+ORD-10653,2024-05-08,Camera,Electronics,58324.31,6,"Kiran Bhat",Chennai,Wallet,349945.86
+ORD-10654,2022-08-21,Smartwatch,Electronics,74748.23,1,"Rohit Verma",Kolkata,"Net Banking",74748.23
+ORD-10655,2024-10-28,"Cooking Oil",Grocery,597.42,9,"Meera Kapoor",Lucknow,"Debit Card",5376.78
+ORD-10656,2023-10-11,Textbook,Books,902.06,7,"Deepak Pandey",Jaipur,"Debit Card",6314.42
+ORD-10657,2024-04-28,Bookshelf,Furniture,8651.67,9,"Rohit Verma",Chennai,EMI,77865.03
+ORD-10658,2024-10-06,Coffee,Grocery,796.76,3,"Suresh Kumar","Unknown City","Cash on Delivery",2390.28
+ORD-10659,2024-01-25,Jacket,Clothing,1724.47,3,"Suresh Kumar",Bhopal,"Credit Card",5173.41
+ORD-10660,2022-04-04,"Self-Help Book",Books,720.21,5,"Rohit Verma",Bangalore,"Credit Card",3601.05
+ORD-10661,2024-04-08,Dumbbells,Sports,8635.53,4,"Tarun Bansal",Mumbai,UPI,34542.12
+ORD-10662,2023-12-21,Hoodie,Clothing,843.62,10,"Ananya Das",Bangalore,Wallet,8436.20
+ORD-10663,2022-04-02,"Comic Book",Books,763.39,3,"Riya Shah",Nagpur,"Credit Card",2290.17
+ORD-10665,2022-07-13,"Action Figure",Toys,2734.19,8,"Bhavna Desai",Mumbai,"Cash on Delivery",21873.52
+ORD-10666,2024-10-20,Biography,Books,538.06,10,"Sanjay Mishra",Jaipur,UPI,5380.60
+ORD-10667,2022-09-18,Smartphone,Electronics,38661.01,1,"Manoj Tiwari",Kanpur,"Credit Card",38661.01
+ORD-10668,2022-05-15,Cookbook,Books,1171.22,1,"Manoj Tiwari",Bhopal,UPI,1171.22
+ORD-10669,2024-01-23,"Yoga Mat",Sports,2747.35,5,"Kiran Bhat",Bhopal,"Debit Card",13736.75
+ORD-10670,2022-03-25,"Action Figure",Toys,3723.25,9,"Lakshmi Pillai",Bhopal,EMI,33509.25
+ORD-10671,2022-03-15,Coffee,Grocery,360.17,8,"Lakshmi Pillai",Bhopal,EMI,2881.36
+ORD-10672,2024-11-23,Wardrobe,Furniture,6328.62,6,"Kavya Nair",Kanpur,EMI,37971.72
+ORD-10673,2024-06-03,Jeans,Clothing,747.99,8,"Unknown Customer",Kanpur,"Net Banking",5983.92
+ORD-10674,2022-06-19,Coffee,Grocery,462.76,1,"Tarun Bansal",Indore,"Debit Card",462.76
+ORD-10675,2023-05-10,Dal,Grocery,184.15,1,"Harish Yadav",Nagpur,"Net Banking",184.15
+ORD-10676,2022-01-20,Cycle,Sports,2956.23,3,"Bhavna Desai",Chennai,"Credit Card",8868.69
+ORD-10677,2022-10-16,Doll,Toys,6872.21,9,"Divya Joshi",Hyderabad,"Cash on Delivery",61849.89
+ORD-10678,2024-10-01,Doll,Toys,3399.18,2,"Divya Joshi","Unknown City","Cash on Delivery",6798.36
+ORD-10679,2022-03-05,Dumbbells,Sports,9540.94,4,"Priya Patel",Lucknow,UPI,38163.76
+ORD-10681,2023-12-19,Textbook,Books,325.87,5,"Simran Kaur",Surat,"Cash on Delivery",1629.35
+ORD-10682,2022-02-25,Spices,Grocery,612.00,6,"Pooja Iyer",Kolkata,UPI,3672.00
+ORD-10683,2022-05-16,"Fiction Novel",Books,1161.82,9,"Rohit Verma",Delhi,EMI,10456.38
+ORD-10684,2022-12-07,"Badminton Racket",Sports,8047.68,9,"Rajesh Nair",Mumbai,"Credit Card",72429.12
+ORD-10685,2024-05-14,Hoodie,Clothing,3675.56,10,"Rajesh Nair",Indore,UPI,36755.60
+ORD-10687,2022-12-10,Doll,Toys,6502.25,10,"Arjun Mehta",Mumbai,"Credit Card",65022.50
+ORD-10688,2024-04-26,Monitor,Electronics,53351.43,2,"Rajesh Nair",Pune,"Net Banking",106702.86
+ORD-10689,2022-11-07,Camera,Electronics,30045.43,4,"Simran Kaur",Chennai,"Credit Card",120181.72
+ORD-10690,2023-01-04,Shoes,Clothing,1641.36,9,"Tarun Bansal",Kolkata,"Debit Card",14772.24
+ORD-10691,2022-04-11,Biography,Books,896.49,1,"Suresh Kumar",Bhopal,EMI,896.49
+ORD-10692,2023-03-21,Doll,Toys,6418.58,3,"Deepak Pandey",Bhopal,Wallet,19255.74
+ORD-10693,2024-01-27,Lipstick,Beauty,2373.57,7,"Kiran Bhat",Chennai,"Cash on Delivery",16614.99
+ORD-10694,2024-11-11,Sunscreen,Beauty,1654.07,4,"Ananya Das",Delhi,"Debit Card",6616.28
+ORD-10695,2024-09-27,"Cricket Bat",Sports,5285.54,7,"Kavya Nair",Surat,"Cash on Delivery",36998.78
+ORD-10696,2024-04-24,Textbook,Books,933.27,5,"Priya Patel",Chennai,"Net Banking",4666.35
+ORD-10697,2023-05-07,Hoodie,Clothing,4409.83,6,"Kiran Bhat",Chennai,"Debit Card",26458.98
+ORD-10698,2022-08-17,Kurta,Clothing,3967.73,4,"Rahul Sharma",Nagpur,"Net Banking",15870.92
+ORD-10699,2024-09-10,"Wheat Flour",Grocery,305.09,8,"Bhavna Desai",Kolkata,"Debit Card",2440.72
+ORD-10700,2023-07-23,Jacket,Clothing,1184.90,1,"Kiran Bhat",Delhi,"Credit Card",1184.90
+ORD-10701,2022-06-15,"Cricket Bat",Sports,10399.67,10,"Priya Patel","Unknown City","Cash on Delivery",103996.70
+ORD-10702,2022-12-07,"Cricket Bat",Sports,8790.13,5,"Arjun Mehta",Hyderabad,EMI,43950.65
+ORD-10703,2024-02-09,Dumbbells,Sports,4991.50,8,"Rohit Verma",Bangalore,UPI,39932.00
+ORD-10704,2024-02-07,T-Shirt,Clothing,4799.83,9,"Sanjay Mishra",Kolkata,"Cash on Delivery",43198.47
+ORD-10705,2024-04-06,Perfume,Beauty,510.51,5,"Amit Singh",Chennai,"Cash on Delivery",2552.55
+ORD-10706,2022-08-22,Sunscreen,Beauty,1386.58,3,"Priya Patel",DELHI,"Net Banking",4159.74
+ORD-10707,2024-10-19,Smartphone,Electronics,36536.36,3,"Meera Kapoor",Indore,EMI,109609.08
+ORD-10708,2022-12-25,Puzzle,Toys,2973.87,6,"Tarun Bansal",Nagpur,"Cash on Delivery",17843.22
+ORD-10709,2024-08-04,Hoodie,Clothing,2925.39,2,"Deepak Pandey",Chennai,EMI,5850.78
+ORD-10710,2022-10-09,Doll,Toys,2007.21,4,"Ananya Das",Pune,"Debit Card",8028.84
+ORD-10711,2022-08-04,Perfume,Beauty,1414.52,1,"Ananya Das",Ahmedabad,"Net Banking",1414.52
+ORD-10712,2024-03-17,Sugar,Grocery,625.96,10,"Sneha Gupta",Pune,Wallet,6259.60
+ORD-10713,2023-09-15,Kurta,Clothing,2869.52,2,"Manoj Tiwari",Surat,"Net Banking",5739.04
+ORD-10714,2023-07-03,"Study Chair",Furniture,13697.17,3,"Suresh Kumar",hyderabad,Wallet,41091.51
+ORD-10715,2024-12-08,"Comic Book",Books,894.10,6,"Kavya Nair",Lucknow,EMI,5364.60
+ORD-10716,2023-06-18,Hoodie,Clothing,748.75,10,"Sneha Gupta",Indore,"Net Banking",7487.50
+ORD-10717,2024-02-22,Sugar,Grocery,766.91,2,"Rajesh Nair",Nagpur,Wallet,1533.82
+ORD-10718,2022-04-27,"Self-Help Book",Books,792.01,1,"Rohit Verma",Bhopal,"Cash on Delivery",792.01
+ORD-10719,2024-05-13,Tablet,Electronics,56344.48,8,"Rajesh Nair",Surat,"Net Banking",450755.84
+ORD-10720,2023-10-26,"Dining Table",Furniture,34712.81,6,"Tarun Bansal",Chennai,"Net Banking",208276.86
+ORD-10721,2024-07-28,"Face Cream",Beauty,1789.91,10,"Rohit Verma",Indore,UPI,17899.10
+ORD-10722,2022-12-18,Camera,Electronics,76640.90,1,"Ananya Das",Delhi,Wallet,76640.90
+ORD-10723,2023-11-11,"Cricket Bat",Sports,3758.05,10,"Simran Kaur",Pune,"Net Banking",37580.50
+ORD-10724,2023-03-07,"Comic Book",Books,863.17,3,"Sanjay Mishra",Pune,Wallet,2589.51
+ORD-10725,2022-01-03,Lipstick,Beauty,547.38,3,"Meera Kapoor",Mumbai,"Debit Card",1642.14
+ORD-10726,2022-03-21,"Action Figure",Toys,3606.53,3,"Riya Shah",Indore,"Net Banking",10819.59
+ORD-10727,2023-09-27,Cookbook,Books,351.72,9,"Deepak Pandey",Pune,UPI,3165.48
+ORD-10728,2024-08-28,"Dining Table",Furniture,22389.05,1,"Harish Yadav",Hyderabad,EMI,22389.05
+ORD-10729,2023-01-02,"Yoga Mat",Sports,13920.50,10,"Lakshmi Pillai",Ahmedabad,"Debit Card",139205.00
+ORD-10730,2022-12-24,"Face Cream",Beauty,1782.78,2,"Kiran Bhat",Indore,Wallet,3565.56
+ORD-10731,2024-02-08,"Yoga Mat",Sports,7899.16,9,"Neha Reddy",Lucknow,EMI,71092.44
+ORD-10732,2024-01-16,Shoes,Clothing,3142.59,6,"Deepak Pandey",Jaipur,"Net Banking",18855.54
+ORD-10733,2023-03-02,Lipstick,Beauty,1123.45,5,"Simran Kaur",Bhopal,"Cash on Delivery",5617.25
+ORD-10734,2022-11-16,Cycle,Sports,11839.82,5,"Lakshmi Pillai",Bangalore,"Cash on Delivery",59199.10
+UNKNOWN,2023-05-28,Shoes,Clothing,1409.84,10,"Vikram Rao",Mumbai,EMI,14098.40
+ORD-10737,2024-08-12,Jacket,Clothing,4568.63,3,"Kavya Nair",Chennai,"Cash on Delivery",13705.89
+ORD-10738,2022-06-03,Wardrobe,Furniture,10678.84,9,"Rohit Verma",Surat,Wallet,96109.56
+ORD-10739,2023-04-22,Spices,Grocery,614.57,7,"Deepak Pandey",Kanpur,"Net Banking",4301.99
+ORD-10740,2022-11-09,"Wheat Flour",Grocery,483.32,6,"Bhavna Desai",Indore,"Credit Card",2899.92
+ORD-10741,2023-08-24,Tablet,Electronics,39709.26,8,"Bhavna Desai",Bhopal,"Cash on Delivery",317674.08
+ORD-10742,2023-05-05,Wardrobe,Furniture,34808.48,7,"Kiran Bhat",Indore,"Net Banking",243659.36
+ORD-10743,2023-11-11,Smartwatch,Electronics,78850.30,8,"Kiran Bhat",Lucknow,"Credit Card",630802.40
+ORD-10745,2023-08-25,"Cricket Bat",Sports,4053.56,10,"Tarun Bansal",Kanpur,"Debit Card",40535.60
+ORD-10746,2023-09-01,"Study Chair",Furniture,18195.52,3,"Tarun Bansal",Mumbai,Wallet,54586.56
+ORD-10747,2022-10-19,T-Shirt,Clothing,2173.99,9,"Ananya Das",Hyderabad,EMI,19565.91
+ORD-10748,2024-02-02,"Badminton Racket",Sports,3138.27,1,"Rajesh Nair",Lucknow,Wallet,3138.27
+ORD-10749,2022-10-05,"Study Chair",Furniture,32627.98,2,"Manoj Tiwari",Lucknow,Wallet,65255.96
+ORD-10750,2023-08-22,"Cooking Oil",Grocery,571.74,5,"Amit Singh",Lucknow,"Net Banking",2858.70
+ORD-10751,2023-03-25,"Yoga Mat",Sports,10475.66,6,"Amit Singh",Chennai,Wallet,62853.96
+ORD-10752,2023-05-06,Speaker,Electronics,33335.89,1,"Deepak Pandey",Delhi,"Net Banking",33335.89
+ORD-10753,2024-03-02,"Study Chair",Furniture,20846.45,8,"Bhavna Desai",Pune,"Debit Card",166771.60
+ORD-10754,2022-02-03,Hoodie,Clothing,3633.92,2,"Lakshmi Pillai",Kanpur,EMI,7267.84
+ORD-10756,2024-01-17,Football,Sports,10590.81,7,"Simran Kaur",Nagpur,"Net Banking",74135.67
+ORD-10757,2024-04-01,Doll,Toys,3350.52,2,"Manoj Tiwari",Kanpur,Wallet,6701.04
+ORD-10758,2023-11-10,"Board Game",Toys,4624.50,6,"Manoj Tiwari",MUMBAI,EMI,27747.00
+ORD-10759,2022-08-25,Kurta,Clothing,2766.21,6,"Bhavna Desai",Chennai,"Debit Card",16597.26
+ORD-10760,2024-04-10,"Dining Table",Furniture,28614.82,7,"Simran Kaur",Pune,"Credit Card",200303.74
+ORD-10761,2024-04-05,Lipstick,Beauty,346.10,8,"Priya Patel",Hyderabad,"Credit Card",2768.80
+ORD-10762,2024-05-16,Wardrobe,Furniture,20660.84,9,"Sanjay Mishra",Indore,Wallet,185947.56
+ORD-10763,2023-12-02,"Board Game",Toys,488.93,1,"Manoj Tiwari",Delhi,"Debit Card",488.93
+ORD-10764,2022-12-19,"Action Figure",Toys,6987.56,9,"Divya Joshi",Bhopal,"Credit Card",62888.04
+ORD-10765,2023-10-02,Tablet,Electronics,41811.60,1,"Divya Joshi",Kanpur,EMI,41811.60
+ORD-10766,2023-02-15,"Rice (5kg)",Grocery,179.19,1,"Rajesh Nair",Bangalore,Wallet,179.19
+ORD-10768,2024-03-11,"Self-Help Book",Books,269.12,10,"Arjun Mehta",Nagpur,"Credit Card",2691.20
+ORD-10769,2022-07-06,Tea,Grocery,97.42,5,"Unknown Customer",Kolkata,"Debit Card",487.10
+ORD-10770,2022-03-04,Spices,Grocery,232.73,10,"Meera Kapoor",Surat,"Net Banking",2327.30
+ORD-10771,2022-01-06,"Rice (5kg)",Grocery,709.72,2,"Amit Singh",Kanpur,EMI,1419.44
+ORD-10772,2024-12-02,"Yoga Mat",Sports,10494.50,8,"Rohit Verma",Lucknow,UPI,83956.00
+UNKNOWN,2024-12-02,Doll,Toys,2066.18,3,"Rajesh Nair",Bangalore,EMI,6198.54
+ORD-10774,2023-07-01,Puzzle,Toys,7612.32,5,"Sanjay Mishra",Hyderabad,"Debit Card",38061.60
+ORD-10775,2024-04-15,Jeans,Clothing,3170.82,9,"Bhavna Desai",LUCKNOW,"Debit Card",28537.38
+ORD-10776,2022-11-28,"Bed Frame",Furniture,4547.31,2,"Neha Reddy",Ahmedabad,"Debit Card",9094.62
+ORD-10777,2023-04-14,"Rice (5kg)",Grocery,90.52,6,"Vikram Rao",Kolkata,"Cash on Delivery",543.12
+ORD-10778,2024-07-05,"Board Game",Toys,1014.48,1,"Rahul Sharma",Ahmedabad,"Cash on Delivery",1014.48
+ORD-10779,2024-10-11,Jeans,Clothing,4496.38,8,"Riya Shah",Hyderabad,EMI,35971.04
+ORD-10780,2022-02-08,Shampoo,Beauty,2359.03,6,"Harish Yadav",Pune,Wallet,14154.18
+ORD-10781,2023-12-13,Wardrobe,Furniture,44785.53,2,"Priya Patel","Unknown City","Net Banking",89571.06
+ORD-10782,2022-07-12,"Wheat Flour",Grocery,745.92,8,"Rohit Verma",Ahmedabad,EMI,5967.36
+ORD-10784,2023-07-06,Smartwatch,Electronics,12034.38,8,"Bhavna Desai",Kolkata,"Debit Card",96275.04
+ORD-10785,2022-10-18,Dumbbells,Sports,2604.79,10,"Divya Joshi",Delhi,"Net Banking",26047.90
+ORD-10786,2023-01-24,"LEGO Set",Toys,4814.33,8,"Riya Shah",Kanpur,Wallet,38514.64
+ORD-10787,2022-10-05,"Dining Table",Furniture,17710.21,10,"Lakshmi Pillai",Bhopal,"Credit Card",177102.10
+ORD-10788,2024-09-02,"Fiction Novel",Books,156.08,8,"Riya Shah",Jaipur,"Net Banking",1248.64
+ORD-10789,2023-04-03,"Action Figure",Toys,6606.07,8,"Sanjay Mishra",Nagpur,"Credit Card",52848.56
+ORD-10790,2022-11-03,Textbook,Books,285.80,5,"Rahul Sharma",Ahmedabad,EMI,1429.00
+ORD-10791,2024-10-01,Football,Sports,10638.58,10,"Deepak Pandey",Ahmedabad,Wallet,106385.80
+ORD-10792,2024-08-23,Coffee,Grocery,188.71,6,"Meera Kapoor",Mumbai,Wallet,1132.26
+ORD-10793,2024-01-10,Saree,Clothing,4488.49,6,"Riya Shah",Nagpur,UPI,26930.94
+ORD-10794,2024-11-15,Cabinet,Furniture,34863.93,10,"Kiran Bhat",Bhopal,EMI,348639.30
+ORD-10795,2023-10-02,"Face Cream",Beauty,421.80,6,"Ananya Das",Kolkata,"Debit Card",2530.80
+ORD-10796,2022-09-04,Dress,Clothing,864.35,6,"Meera Kapoor",Ahmedabad,EMI,5186.10
+ORD-10798,2023-08-17,"Cricket Bat",Sports,1231.53,6,"Kiran Bhat",Indore,"Credit Card",7389.18
+ORD-10799,2023-08-20,"Action Figure",Toys,4348.85,9,"Ananya Das",Nagpur,EMI,39139.65
+ORD-10800,2022-02-13,Dress,Clothing,4481.14,8,"Kavya Nair",Chennai,"Credit Card",35849.12
+ORD-10801,2023-03-28,Jacket,Clothing,1524.53,3,"Arjun Mehta",Jaipur,EMI,4573.59
+ORD-10802,2022-08-12,Smartwatch,Electronics,35697.35,9,"Riya Shah",Ahmedabad,EMI,321276.15
+ORD-10803,2022-09-21,Smartwatch,Electronics,16475.63,1,"Suresh Kumar",Pune,"Cash on Delivery",16475.63
+ORD-10804,2023-10-22,"Hair Oil",Beauty,1973.55,6,"Simran Kaur",Jaipur,Wallet,11841.30
+ORD-10805,2023-03-26,Doll,Toys,2571.84,3,"Vikram Rao",Hyderabad,"Net Banking",7715.52
+ORD-10806,2022-06-10,Perfume,Beauty,2332.27,1,"Deepak Pandey",Bangalore,"Cash on Delivery",2332.27
+ORD-10004,2024-05-26,Saree,Clothing,664.24,6,"Priya Patel",Kanpur,"Net Banking",3985.44
+ORD-10071,2024-01-25,Camera,Electronics,19446.77,2,"Rahul Sharma",Hyderabad,"Debit Card",38893.54
+ORD-10809,2022-12-28,Camera,Electronics,83142.91,3,"Kavya Nair",Jaipur,UPI,249428.73
+ORD-10810,2022-08-11,T-Shirt,Clothing,2141.90,8,"Rohit Verma",Mumbai,EMI,17135.20
+ORD-10197,2024-08-23,Sunscreen,Beauty,1081.79,3,"Neha Reddy",Lucknow,"Debit Card",3245.37
+ORD-10812,2022-03-22,"Remote Car",Toys,5575.35,8,"Sanjay Mishra",Delhi,UPI,44602.80
+ORD-10813,2023-06-03,Speaker,Electronics,52680.61,4,"Suresh Kumar",Mumbai,"Cash on Delivery",210722.44
+ORD-10043,2024-12-05,Kurta,Clothing,3944.56,7,"Divya Joshi",Indore,"Debit Card",27611.92
+UNKNOWN,2024-10-17,Saree,Clothing,1133.36,6,"Priya Patel",Bhopal,EMI,6800.16
+ORD-10816,2023-07-12,Lipstick,Beauty,529.04,7,"Rahul Sharma",Chennai,"Debit Card",3703.28
+ORD-10817,2022-04-24,Perfume,Beauty,2934.82,9,"Deepak Pandey",Kanpur,"Net Banking",26413.38
+ORD-10818,2024-07-05,"Remote Car",Toys,1477.56,7,"Lakshmi Pillai",Surat,"Credit Card",10342.92
+ORD-10819,2023-02-19,"Wheat Flour",Grocery,277.42,9,"Bhavna Desai",Pune,"Net Banking",2496.78
+ORD-10820,2023-03-18,Speaker,Electronics,54479.11,5,"Deepak Pandey",Kanpur,"Cash on Delivery",272395.55
+ORD-10821,2023-09-16,"Wheat Flour",Grocery,189.50,7,"Priya Patel",Indore,Wallet,1326.50
+ORD-10822,2024-08-08,Dumbbells,Sports,4767.54,9,"Rahul Sharma",Nagpur,UPI,42907.86
+ORD-10100,2022-11-27,Sunscreen,Beauty,826.07,2,"Lakshmi Pillai",SURAT,"Credit Card",1652.14
+ORD-10825,2023-11-22,Sunscreen,Beauty,1493.41,7,"Neha Reddy",Kanpur,Wallet,10453.87
+ORD-10826,2022-05-06,Kurta,Clothing,2660.12,10,"Lakshmi Pillai",Mumbai,"Debit Card",26601.20
+ORD-10055,2024-03-22,"Action Figure",Toys,1866.87,8,"Amit Singh",Chennai,"Cash on Delivery",14934.96
+ORD-10828,2024-02-17,"Face Cream",Beauty,940.58,9,"Arjun Mehta",Nagpur,EMI,8465.22
+ORD-10829,2024-06-28,"Cooking Oil",Grocery,499.07,3,"Suresh Kumar",Indore,Wallet,1497.21
+ORD10169,2022-08-15,"Hair Oil",Beauty,1016.80,8,"Meera Kapoor",Chennai,Wallet,8134.40
+ORD-10831,2023-07-11,Tablet,Electronics,44285.43,6,"Kavya Nair",Delhi,"Debit Card",265712.58
+ORD-10045,2023-01-28,Football,Sports,11874.41,2,"Neha Reddy",Hyderabad,"Debit Card",23748.82
+ORD-10833,2022-03-01,Saree,Clothing,2410.36,2,"Neha Reddy",Kolkata,UPI,4820.72
+ORD-10834,2024-06-06,Shampoo,Beauty,2469.41,10,"Simran Kaur",Chennai,"Credit Card",24694.10
+ORD-10835,2024-04-10,Dress,Clothing,817.83,3,"Rohit Verma",Hyderabad,"Debit Card",2453.49
+ORD-10836,2022-01-25,Saree,Clothing,3515.93,2,"Neha Reddy",Nagpur,"Net Banking",7031.86
+ORD-10837,2024-01-16,Headphones,Electronics,9610.57,9,"Sneha Gupta",Bhopal,UPI,86495.13
+ORD-10838,2022-02-20,Smartphone,Electronics,25989.07,1,"Arjun Mehta",Surat,"Debit Card",25989.07
+ORD-10839,2024-05-19,Tea,Grocery,71.94,3,"Ananya Das",Kolkata,"Debit Card",215.82
+ORD-10840,2024-01-17,"Study Chair",Furniture,29371.30,2,"Arjun Mehta",Kanpur,"Debit Card",58742.60
+ORD-10173,2024-02-17,"Rice (5kg)",Grocery,387.89,6,"Meera Kapoor",Bangalore,"Credit Card",2327.34
+ORD-10843,2023-02-25,"Comic Book",Books,399.98,4,"Suresh Kumar",Delhi,"Net Banking",1599.92
+ORD-10051,2024-06-22,"Bed Frame",Furniture,22702.28,6,"Sneha Gupta",Kanpur,UPI,136213.68
+ORD-10845,2023-10-24,Lipstick,Beauty,435.60,5,"Pooja Iyer",Lucknow,Wallet,2178.00
+ORD-10120,2023-10-22,Lipstick,Beauty,522.15,9,"Kavya Nair",Bangalore,EMI,4699.35
+ORD-10847,2024-08-22,"Action Figure",Toys,3066.04,1,"Sneha Gupta",Pune,"Net Banking",3066.04
+ORD-10162,2022-07-28,"Study Chair",Furniture,28818.73,6,"Harish Yadav",Mumbai,"Net Banking",172912.38
+ORD-10849,2022-10-28,Kurta,Clothing,4881.00,6,"Manoj Tiwari","Unknown City","Debit Card",29286.00
+ORD-10850,2024-05-25,Biography,Books,798.75,10,"Meera Kapoor",Pune,UPI,7987.50
+ORD-10851,2023-09-09,"Action Figure",Toys,4904.69,7,"Rohit Verma",Nagpur,"Net Banking",34332.83
+ORD-10852,2022-11-05,Jeans,Clothing,1403.31,8,"Rahul Sharma",Delhi,EMI,11226.48
+ORD-10164,2023-03-26,"Self-Help Book",Books,261.24,1,"Rajesh Nair",Ahmedabad,Wallet,261.24
+ORD-10153,2022-05-19,Kurta,Clothing,4257.79,6,"Divya Joshi",Nagpur,"Net Banking",25546.74
+ORD-10855,2024-05-18,"Bed Frame",Furniture,33780.48,8,"Suresh Kumar",Nagpur,Wallet,270243.84
+ORD-10075,2024-10-26,Dress,Clothing,689.13,5,"Sneha Gupta",Nagpur,"Cash on Delivery",3445.65
+ORD-10857,2024-03-16,Laptop,Electronics,15445.45,5,"Riya Shah",Bangalore,UPI,77227.25
+ORD-10858,2024-08-22,"Comic Book",Books,1169.62,10,"Sanjay Mishra",Lucknow,"Cash on Delivery",11696.20
+ORD-10013,2024-02-13,Jacket,Clothing,3211.74,7,"Manoj Tiwari",Surat,"Net Banking",22482.18
+ORD-10860,2023-01-01,Cookbook,Books,1047.08,5,"Lakshmi Pillai",Mumbai,"Debit Card",5235.40
+ORD-10861,2022-11-11,Perfume,Beauty,2447.70,10,"Manoj Tiwari",Delhi,"Net Banking",24477.00
+ORD-10862,2024-04-08,Perfume,Beauty,1294.60,1,"Divya Joshi",Lucknow,UPI,1294.60
+ORD-10863,2023-03-01,Jeans,Clothing,4370.91,2,"Sanjay Mishra",Kolkata,"Credit Card",8741.82
+ORD-10864,2024-07-09,"Action Figure",Toys,6934.27,10,"Rahul Sharma",Kanpur,"Net Banking",69342.70
+UNKNOWN,2023-10-04,Camera,Electronics,32418.83,7,"Neha Reddy",Delhi,EMI,226931.81
+ORD-10867,2022-02-04,"Action Figure",Toys,6809.21,2,"Vikram Rao",Mumbai,UPI,13618.42
+ORD-10868,NULL,Textbook,Books,974.40,2,"Lakshmi Pillai",Kolkata,UPI,1948.80
+ORD-10869,2022-11-27,Hoodie,Clothing,2250.11,6,"Pooja Iyer",Jaipur,Wallet,13500.66
+UNKNOWN,2022-07-13,"Yoga Mat",Sports,10052.81,6,"Vikram Rao",Surat,"Cash on Delivery",60316.86
+ORD-10871,2022-11-23,"Action Figure",Toys,6154.85,3,"Kiran Bhat",Indore,"Debit Card",18464.55
+ORD-10872,NULL,"LEGO Set",Toys,5354.29,8,"Rajesh Nair",Indore,Wallet,42834.32
+ORD-10873,2024-04-12,Cookbook,Books,1117.26,1,"Deepak Pandey",Bangalore,"Debit Card",1117.26
+ORD-10874,2023-02-21,Sugar,Grocery,683.09,7,"Arjun Mehta",Indore,"Net Banking",4781.63
+ORD-10875,2024-10-08,"Badminton Racket",Sports,9796.83,5,"Manoj Tiwari",Hyderabad,"Credit Card",48984.15
+ORD-10876,2023-08-18,"Wheat Flour",Grocery,70.78,5,"Riya Shah",Pune,"Credit Card",353.90
+ORD-10878,2022-01-28,"Rice (5kg)",Grocery,772.84,8,"Amit Singh",Kolkata,"Cash on Delivery",6182.72
+ORD-10879,2023-11-22,"Cricket Bat",Sports,13538.45,7,"Amit Singh",Pune,"Credit Card",94769.15
+ORD-10880,2022-09-22,"Wheat Flour",Grocery,133.95,9,"Lakshmi Pillai",Nagpur,"Cash on Delivery",1205.55
+ORD-10881,2024-02-25,"Yoga Mat",Sports,13303.10,4,"Suresh Kumar",Kolkata,Wallet,53212.40
+ORD-10179,2023-05-06,Saree,Clothing,2640.74,1,"Arjun Mehta",Kolkata,Wallet,2640.74
+ORD-10185,2023-09-04,Sugar,Grocery,89.13,8,"Simran Kaur",Indore,"Cash on Delivery",713.04
+ORD-10884,2023-03-12,Sunscreen,Beauty,1328.97,4,"Neha Reddy",Kanpur,UPI,5315.88
+ORD-10885,2022-12-22,"Cricket Bat",Sports,9787.34,10,"Priya Patel",Kanpur,Wallet,97873.40
+ORD-10886,2024-12-12,"Bed Frame",Furniture,28530.94,5,"Tarun Bansal",Delhi,"Cash on Delivery",142654.70
+ORD-10887,2023-05-10,Cabinet,Furniture,23235.33,1,"Amit Singh",Bhopal,Wallet,23235.33
+ORD-10888,2023-11-11,"Bed Frame",Furniture,12098.55,3,"Bhavna Desai",Lucknow,"Net Banking",36295.65
+ORD-10889,2023-12-14,Smartwatch,Electronics,73714.57,8,"Suresh Kumar",Kanpur,"Net Banking",589716.56
+ORD-10890,2022-06-14,Jacket,Clothing,3552.71,9,"Rajesh Nair",Kanpur,Wallet,31974.39
+ORD-10168,2023-10-25,"Cooking Oil",Grocery,182.86,8,"Lakshmi Pillai",Ahmedabad,EMI,1462.88
+ORD-10892,2023-10-03,"Rice (5kg)",Grocery,350.50,5,"Sneha Gupta",Bangalore,"Debit Card",1752.50
+ORD-10893,2023-08-28,Coffee,Grocery,644.48,6,"Harish Yadav",Bangalore,UPI,3866.88
+ORD-10894,2024-03-01,Tea,Grocery,649.65,4,"Kavya Nair",Pune,"Net Banking",2598.60
+ORD-10895,2024-10-21,Sofa,Furniture,47509.24,9,"Divya Joshi",Bhopal,"Credit Card",427583.16
+ORD-10896,2022-07-20,"LEGO Set",Toys,2241.91,3,"Riya Shah",Surat,UPI,6725.73
+ORD-10897,2024-02-01,"Cooking Oil",Grocery,768.52,3,"Simran Kaur",Jaipur,"Net Banking",2305.56
+ORD-10025,2023-07-14,Sofa,Furniture,6652.68,7,"Deepak Pandey",Indore,EMI,46568.76
+ORD-10899,2024-04-27,Doll,Toys,1215.55,4,"Pooja Iyer",Kanpur,EMI,4862.20
+ORD-10900,2022-05-09,Wardrobe,Furniture,10657.75,3,"Divya Joshi",Surat,"Net Banking",31973.25
+ORD-10099,2023-02-20,"Self-Help Book",Books,800.66,8,"Priya Patel",Bhopal,"Net Banking",6405.28
+ORD-10035,2022-02-18,T-Shirt,Clothing,2399.77,10,"Arjun Mehta",Jaipur,UPI,23997.70
+UNKNOWN,2023-06-20,T-Shirt,Clothing,450.14,4,"Tarun Bansal",Nagpur,"Cash on Delivery",1800.56
+ORD-10904,2023-05-13,Laptop,Electronics,21934.01,10,"Tarun Bansal",Kolkata,"Debit Card",219340.10
+ORD-10905,2023-06-15,Tablet,Electronics,22494.64,9,"Rohit Verma",Delhi,UPI,202451.76
+ORD-10091,2023-02-08,Tablet,Electronics,13107.20,10,"Sneha Gupta",Jaipur,Wallet,131072.00
+ORD-10907,2024-05-17,"Self-Help Book",Books,1363.91,5,"Suresh Kumar",Pune,"Debit Card",6819.55
+ORD-10908,2024-11-21,"Hair Oil",Beauty,2984.24,3,"Unknown Customer",Mumbai,"Debit Card",8952.72
+ORD-10078,2023-08-14,Dumbbells,Sports,12180.53,9,"Harish Yadav",Surat,UPI,109624.77
+ORD-10910,2024-09-16,Hoodie,Clothing,395.80,6,"Deepak Pandey",Ahmedabad,"Credit Card",2374.80
+ORD-10911,2023-03-27,"Cooking Oil",Grocery,312.20,4,"Kavya Nair",Kanpur,"Cash on Delivery",1248.80
+ORD-10912,2022-10-01,Dumbbells,Sports,13396.15,10,"Kiran Bhat",Nagpur,"Cash on Delivery",133961.50
+ORD-10913,2023-11-04,Coffee,Grocery,740.31,4,"Suresh Kumar",Mumbai,UPI,2961.24
+ORD-10914,2023-03-01,Saree,Clothing,1993.08,2,"Amit Singh",Ahmedabad,Wallet,3986.16
+ORD-10915,2024-11-01,Doll,Toys,5101.18,5,"Suresh Kumar",Mumbai,EMI,25505.90
+ORD-10916,2022-04-28,"Remote Car",Toys,7589.86,10,"Priya Patel",Nagpur,EMI,75898.60
+ORD-10917,2024-10-13,"Badminton Racket",Sports,12032.76,2,"Amit Singh",Pune,UPI,24065.52
+UNKNOWN,2022-01-28,"Wheat Flour",Grocery,773.79,7,"Arjun Mehta",Bangalore,"Net Banking",5416.53
+ORD-10920,2024-02-27,Cycle,Sports,9171.65,6,"Ananya Das",Jaipur,"Debit Card",55029.90
+ORD-10921,2023-10-20,Doll,Toys,7106.22,8,"Riya Shah",Delhi,Wallet,56849.76
+ORD-10112,2024-04-19,"Comic Book",Books,1405.99,4,"Manoj Tiwari",Hyderabad,Wallet,5623.96
+ORD-10923,2023-09-21,"Action Figure",Toys,1949.00,3,"Meera Kapoor",Jaipur,"Credit Card",5847.00
+ORD-10924,2023-03-05,"Yoga Mat",Sports,6729.13,8,"Tarun Bansal",Bhopal,UPI,53833.04
+ORD-10925,2022-09-03,"Study Chair",Furniture,22531.13,10,"Priya Patel",Jaipur,"Credit Card",225311.30
+ORD-10926,2023-06-09,"Comic Book",Books,232.28,10,"Lakshmi Pillai",Delhi,Wallet,2322.80
+ORD-10062,2024-05-25,Doll,Toys,2221.69,4,"Bhavna Desai",Jaipur,"Net Banking",8886.76
+ORD-10928,2024-08-25,Biography,Books,516.71,10,"Tarun Bansal",Ahmedabad,"Cash on Delivery",5167.10
+ORD-10929,2022-03-03,"Badminton Racket",Sports,14510.78,3,"Harish Yadav",Surat,UPI,43532.34
+ORD-10930,2023-02-01,Saree,Clothing,2765.00,1,"Kavya Nair",Lucknow,"Net Banking",2765.00
+ORD-10188,2022-01-11,Wardrobe,Furniture,49737.22,6,"Sneha Gupta",Indore,EMI,298423.32
+ORD-10932,2023-02-05,"Hair Oil",Beauty,2054.03,7,"Rohit Verma",Mumbai,"Debit Card",14378.21
+ORD-10933,2022-04-16,T-Shirt,Clothing,3540.96,4,"Meera Kapoor",Bangalore,EMI,14163.84
+ORD-10934,2022-02-10,Wardrobe,Furniture,42420.31,9,"Bhavna Desai",Ahmedabad,"Debit Card",381782.79
+ORD-10935,2022-12-23,Doll,Toys,370.17,3,"Deepak Pandey",Ahmedabad,"Debit Card",1110.51
+ORD-10936,2023-10-27,Monitor,Electronics,49951.62,4,"Manoj Tiwari",Mumbai,UPI,199806.48
+ORD-10937,2023-08-24,Smartphone,Electronics,53769.63,7,"Lakshmi Pillai",Surat,EMI,376387.41
+ORD-10026,2022-04-07,Smartphone,Electronics,5621.77,6,"Arjun Mehta",Jaipur,"Net Banking",33730.62
+ORD-10940,2022-08-20,Cycle,Sports,6431.92,8,"Meera Kapoor",Kolkata,"Net Banking",51455.36
+ORD-10941,2023-06-15,"Fiction Novel",Books,325.87,4,"Divya Joshi",Jaipur,"Debit Card",1303.48
+ORD-10942,2022-05-24,Sunscreen,Beauty,2575.02,8,"Simran Kaur",Pune,"Net Banking",20600.16
+ORD-10113,2024-09-26,"Fiction Novel",Books,545.45,8,"Tarun Bansal",Nagpur,Wallet,4363.60
+ORD-10944,2024-08-04,"LEGO Set",Toys,1551.67,3,"Riya Shah",Ahmedabad,UPI,4655.01
+ORD-10945,2023-05-12,"Dining Table",Furniture,28727.86,1,"Tarun Bansal",Bangalore,"Debit Card",28727.86
+ORD-10946,2024-04-04,Smartphone,Electronics,29038.59,2,"Sanjay Mishra",Hyderabad,"Net Banking",58077.18
+ORD-10947,2024-05-05,"Badminton Racket",Sports,11837.82,1,"Simran Kaur",Indore,"Cash on Delivery",11837.82
+ORD-10948,2023-02-04,T-Shirt,Clothing,4647.83,8,"Rajesh Nair",Surat,Wallet,37182.64
+ORD-10949,2024-02-28,T-Shirt,Clothing,2635.07,3,"Arjun Mehta",Bhopal,UPI,7905.21
+ORD-10950,2023-12-28,Sugar,Grocery,581.12,9,"Sneha Gupta",Bangalore,EMI,5230.08
+ORD-10951,2022-08-14,Perfume,Beauty,2475.57,2,"Bhavna Desai",Nagpur,"Credit Card",4951.14
+ORD-10952,2023-09-06,Cabinet,Furniture,40838.97,6,"Amit Singh",Chennai,UPI,245033.82
+ORD-10953,2022-09-14,"Self-Help Book",Books,981.22,4,"Divya Joshi",Bangalore,Wallet,3924.88
+ORD-10954,2024-11-12,"Comic Book",Books,1385.23,8,"Rahul Sharma",Ahmedabad,"Debit Card",11081.84
+ORD-10955,2023-03-14,Smartphone,Electronics,7663.76,6,"Priya Patel",Pune,Wallet,45982.56
+ORD-10956,NULL,Tablet,Electronics,76762.19,1,"Tarun Bansal",Bhopal,"Cash on Delivery",76762.19
+ORD-10957,2023-12-24,"Yoga Mat",Sports,6209.44,9,"Suresh Kumar",Bhopal,UPI,55884.96
+ORD-10958,2022-12-13,Smartwatch,Electronics,76567.62,10,"Deepak Pandey",Lucknow,"Debit Card",765676.20
+ORD-10133,2024-08-23,Sunscreen,Beauty,741.96,2,"Pooja Iyer",Lucknow,"Net Banking",1483.92
+ORD-10012,2022-09-16,Cookbook,Books,659.16,4,"Amit Singh",Nagpur,"Credit Card",2636.64
+ORD-10961,2022-01-26,Dumbbells,Sports,5308.42,3,"Sanjay Mishra",Surat,UPI,15925.26
+ORD-10962,2024-02-24,Cabinet,Furniture,39159.57,7,"Priya Patel",Indore,UPI,274116.99
+ORD-10963,2022-11-04,Cycle,Sports,7760.24,2,"Deepak Pandey",Chennai,"Cash on Delivery",15520.48
+UNKNOWN,2024-10-19,Monitor,Electronics,29143.83,4,"Simran Kaur",Bhopal,EMI,116575.32
+ORD-10965,2024-03-23,"Bed Frame",Furniture,16361.68,10,"Manoj Tiwari",Jaipur,EMI,163616.80
+ORD-10966,2022-06-15,Sofa,Furniture,17736.65,10,"Sneha Gupta",Bangalore,EMI,177366.50
+ORD-10967,2023-03-16,"Comic Book",Books,214.73,1,"Arjun Mehta",Ahmedabad,"Credit Card",214.73
+ORD-10968,2024-09-25,"Hair Oil",Beauty,1626.14,10,"Manoj Tiwari",Indore,UPI,16261.40
+ORD-10969,2024-08-24,"Action Figure",Toys,3502.69,8,"Riya Shah",Indore,EMI,28021.52
+ORD-10002,2023-04-15,Bookshelf,Furniture,33194.45,9,"Lakshmi Pillai",Chennai,Wallet,298750.05
+ORD-10971,2024-06-04,Wardrobe,Furniture,24721.07,3,"Rajesh Nair",Indore,"Net Banking",74163.21
+ORD-10155,2022-12-17,Coffee,Grocery,102.19,1,"Arjun Mehta",Pune,"Net Banking",102.19
+ORD-10973,2022-03-26,Perfume,Beauty,952.55,1,"Lakshmi Pillai",Pune,"Credit Card",952.55
+ORD-10974,2022-02-18,"Badminton Racket",Sports,3469.05,8,"Ananya Das",Delhi,Wallet,27752.40
+ORD-10975,2024-08-11,Speaker,Electronics,41159.41,5,"Manoj Tiwari",Ahmedabad,Wallet,205797.05
+ORD-10976,2023-11-15,Dal,Grocery,428.57,8,"Rohit Verma",INDORE,EMI,3428.56
+ORD-10977,2023-07-08,"Face Cream",Beauty,2419.45,10,"Manoj Tiwari",Kolkata,"Cash on Delivery",24194.50
+ORD-10978,2022-12-01,Monitor,Electronics,62684.63,2,"Lakshmi Pillai",Lucknow,"Net Banking",125369.26
+ORD-10979,2022-04-20,Dumbbells,Sports,9783.85,9,"Sanjay Mishra",Surat,Wallet,88054.65
+ORD-10980,2022-02-22,Headphones,Electronics,63922.20,9,"Sanjay Mishra",Bangalore,"Credit Card",575299.80
+ORD-10981,2023-02-26,Football,Sports,3905.71,10,"Sanjay Mishra",Surat,UPI,39057.10
+ORD10982,2023-07-06,Cookbook,Books,162.98,1,"Riya Shah",Mumbai,Wallet,162.98
+ORD-10983,2022-09-06,Lipstick,Beauty,845.82,2,"Pooja Iyer",Bangalore,"Debit Card",1691.64
+ORD-10984,2024-03-02,"Cricket Bat",Sports,2567.14,7,"Rajesh Nair",Kolkata,"Debit Card",17969.98
+UNKNOWN,2023-03-02,Smartphone,Electronics,54812.35,3,"Vikram Rao",Pune,UPI,164437.05
+ORD-10986,2024-04-16,T-Shirt,Clothing,1172.29,10,"Kiran Bhat",Nagpur,"Cash on Delivery",11722.90
+ORD-10988,2023-09-19,Biography,Books,427.24,1,"Tarun Bansal",Delhi,"Debit Card",427.24
+ORD-10989,2022-11-17,Sugar,Grocery,476.18,8,"Arjun Mehta",Nagpur,"Debit Card",3809.44
+ORD-10990,2024-07-18,Sunscreen,Beauty,2957.40,4,"Deepak Pandey",Mumbai,"Credit Card",11829.60
+ORD-10182,2024-12-08,Spices,Grocery,82.77,6,"Deepak Pandey",Surat,UPI,496.62
+ORD-10992,2024-09-10,"Self-Help Book",Books,1279.41,4,"Priya Patel",Bangalore,UPI,5117.64
+ORD-10993,2022-12-18,Shoes,Clothing,630.63,2,"Vikram Rao",Bhopal,EMI,1261.26
+ORD-10994,2024-06-21,"Study Chair",Furniture,26231.37,6,"Vikram Rao",Nagpur,EMI,157388.22
+ORD-10995,2023-04-15,"Remote Car",Toys,2118.24,6,"Rajesh Nair",Kolkata,EMI,12709.44
+ORD-10996,2022-11-06,"Rice (5kg)",Grocery,506.59,1,"Riya Shah",Jaipur,EMI,506.59
+ORD-10997,2024-01-27,Doll,Toys,4397.43,2,"Tarun Bansal",Ahmedabad,EMI,8794.86
+ORD-10998,2024-06-13,Kurta,Clothing,4865.79,7,"Kavya Nair",Indore,Wallet,34060.53
+ORD-10999,2023-01-08,Smartphone,Electronics,39597.52,4,"Harish Yadav",Mumbai,Wallet,158390.08
+ORD-11000,2022-02-27,Cycle,Sports,13844.56,6,"Rajesh Nair",Lucknow,UPI,83067.36
+ORD-11001,2022-05-16,"Dining Table",Furniture,49045.72,6,"Simran Kaur",Kanpur,"Cash on Delivery",294274.32
+ORD-11002,2022-05-19,Sofa,Furniture,11412.17,7,"Kiran Bhat",ahmedabad,"Debit Card",79885.19
+ORD-11003,2024-03-03,Bookshelf,Furniture,37463.11,10,"Lakshmi Pillai",Bangalore,EMI,374631.10
+ORD-10192,2024-09-01,"Board Game",Toys,1064.69,8,"Meera Kapoor",Jaipur,"Cash on Delivery",8517.52
+ORD-11005,2022-07-21,Smartwatch,Electronics,58017.49,8,"Tarun Bansal",Lucknow,"Credit Card",464139.92
+ORD-11006,2023-02-22,Lipstick,Beauty,2548.59,7,"Kiran Bhat",Ahmedabad,Unknown,17840.13
+ORD-11007,2022-12-22,Sunscreen,Beauty,2301.16,4,"Sanjay Mishra",Ahmedabad,UPI,9204.64
+ORD-10008,2022-08-13,Jacket,Clothing,2763.87,4,"Vikram Rao",Bhopal,EMI,11055.48
+ORD-11009,2023-02-21,Dress,Clothing,1145.01,6,"Meera Kapoor",Delhi,"Credit Card",6870.06
+ORD-11010,2024-06-27,Doll,Toys,6502.86,10,"Vikram Rao",Hyderabad,"Credit Card",65028.60
+ORD-11011,2023-09-26,"LEGO Set",Toys,7678.66,1,"Divya Joshi",Delhi,Wallet,7678.66
+ORD-10171,2024-10-17,Perfume,Beauty,322.52,2,"Manoj Tiwari",Ahmedabad,"Cash on Delivery",645.04
+ORD-10019,2022-03-22,"Board Game",Toys,7828.28,9,"Neha Reddy",Jaipur,"Debit Card",70454.52
+ORD-11014,2023-07-04,T-Shirt,Clothing,2884.44,5,"Rajesh Nair",Nagpur,"Net Banking",14422.20
+ORD-10041,2024-03-18,Cookbook,Books,113.54,2,"Priya Patel",Indore,UPI,227.08
+ORD-11016,2023-09-11,Kurta,Clothing,3324.42,1,"Lakshmi Pillai",Hyderabad,"Credit Card",3324.42
+ORD-11017,2024-04-19,T-Shirt,Clothing,3056.84,2,"Rohit Verma",Lucknow,"Cash on Delivery",6113.68
+ORD-11018,2023-03-08,"Badminton Racket",Sports,6488.80,10,"Rohit Verma",Nagpur,"Credit Card",64888.00
+ORD-11019,2024-11-25,Tablet,Electronics,26835.85,7,"Ananya Das",Chennai,"Cash on Delivery",187850.95
+ORD-11020,2023-05-12,Dal,Grocery,402.14,10,"Rahul Sharma",Jaipur,"Cash on Delivery",4021.40
+ORD-11022,2024-08-23,Cabinet,Furniture,5283.38,4,"Simran Kaur",Ahmedabad,"Cash on Delivery",21133.52
+ORD-11024,2024-04-23,"Board Game",Toys,4068.26,1,"Divya Joshi",Ahmedabad,"Cash on Delivery",4068.26
+ORD-10136,2022-12-12,Hoodie,Clothing,3155.13,5,"Arjun Mehta",Ahmedabad,"Net Banking",15775.65
+ORD-11026,2022-09-04,Camera,Electronics,1335.88,6,"Rohit Verma",Chennai,"Net Banking",8015.28
+ORD-11027,2022-01-07,Bookshelf,Furniture,30112.95,6,"Arjun Mehta",Chennai,"Debit Card",180677.70
+ORD-11028,2024-04-06,"Bed Frame",Furniture,36504.16,6,"Arjun Mehta",Mumbai,"Debit Card",219024.96
+ORD-11029,2023-11-26,"Cricket Bat",Sports,608.61,3,"Sneha Gupta",Kolkata,"Debit Card",1825.83
+ORD-11030,2024-03-17,"Yoga Mat",Sports,3830.20,6,"Rajesh Nair",Bhopal,"Net Banking",22981.20
+ORD-11032,2022-10-19,Sunscreen,Beauty,1345.67,4,"Arjun Mehta",Indore,"Cash on Delivery",5382.68
+ORD-11033,2024-05-28,Football,Sports,5116.90,1,"Rohit Verma",Indore,"Cash on Delivery",5116.90
+ORD-11034,2024-10-03,"LEGO Set",Toys,5872.93,8,"Kavya Nair",Jaipur,"Net Banking",46983.44
+ORD-11035,2023-12-12,Lipstick,Beauty,1604.79,3,"Kiran Bhat",Kanpur,"Net Banking",4814.37
+ORD-10096,2024-04-09,Cycle,Sports,12936.22,2,"Meera Kapoor",Surat,EMI,25872.44
+ORD-11038,2022-05-15,Perfume,Beauty,1696.60,3,"Kiran Bhat",Kolkata,"Debit Card",5089.80
+ORD-11039,2023-08-15,Monitor,Electronics,43786.15,6,"Riya Shah",Pune,Unknown,262716.90
+ORD-10001,2022-04-17,Saree,Clothing,352.56,2,"Rajesh Nair",Mumbai,"Cash on Delivery",705.12
+ORD-11041,2024-09-21,"Face Cream",Beauty,954.10,9,"Amit Singh",Nagpur,UPI,8586.90
+ORD-11042,2022-09-07,Sofa,Furniture,7692.22,6,"Suresh Kumar",Hyderabad,EMI,46153.32
+ORD-11043,2022-12-20,Perfume,Beauty,977.88,5,"Rohit Verma",Indore,Wallet,4889.40
+ORD-11044,2023-07-13,"Cricket Bat",Sports,11620.12,5,"Lakshmi Pillai",Nagpur,EMI,58100.60
+ORD-10031,2024-09-06,"Face Cream",Beauty,245.41,8,"Priya Patel",Jaipur,"Credit Card",1963.28
+ORD-11047,2024-07-07,Kurta,Clothing,4259.85,7,"Deepak Pandey",Ahmedabad,Wallet,29818.95
+ORD-11048,2023-12-01,Camera,Electronics,12241.29,3,"Neha Reddy",Nagpur,EMI,36723.87
+ORD-11049,2024-07-25,Perfume,Beauty,753.92,7,"Bhavna Desai",Kanpur,"Cash on Delivery",5277.44
+ORD-11050,2022-03-05,"Badminton Racket",Sports,8928.24,10,"Suresh Kumar",Surat,EMI,89282.40
+ORD-11051,2022-09-13,"Comic Book",Books,385.89,7,"Arjun Mehta",AHMEDABAD,"Credit Card",2701.23
+UNKNOWN,2022-03-04,Sunscreen,Beauty,2889.62,5,"Tarun Bansal",Jaipur,"Debit Card",14448.10
+ORD-11053,2022-07-10,Monitor,Electronics,2767.85,4,"Arjun Mehta",Hyderabad,UPI,11071.40
+ORD-11054,2022-03-11,Hoodie,Clothing,475.78,9,"Riya Shah",Pune,"Cash on Delivery",4282.02
+ORD-11055,2024-02-13,Jacket,Clothing,2774.97,8,"Arjun Mehta",Bangalore,Wallet,22199.76
+ORD-11056,2022-10-19,"Bed Frame",Furniture,22745.63,8,"Pooja Iyer",Surat,"Debit Card",181965.04
+ORD-11057,2023-02-27,"Remote Car",Toys,1773.28,3,"Manoj Tiwari",Surat,Wallet,5319.84
+ORD-11058,2023-08-15,"Study Chair",Furniture,17786.79,10,"Lakshmi Pillai",Mumbai,EMI,177867.90
+ORD-11059,2023-12-27,Shoes,Clothing,3302.24,8,"Simran Kaur",Nagpur,UPI,26417.92
+ORD-11060,2023-04-06,Cookbook,Books,1252.80,3,"Rajesh Nair",Kanpur,"Net Banking",3758.40
+ORD-11061,2024-10-04,Doll,Toys,7304.50,3,"Manoj Tiwari",Kanpur,"Credit Card",21913.50
+ORD-11062,2023-11-03,Cabinet,Furniture,9580.75,9,"Simran Kaur",Kanpur,EMI,86226.75
+ORD-11063,2022-06-03,Wardrobe,Furniture,21741.35,9,"Bhavna Desai",Delhi,"Cash on Delivery",195672.15
+ORD-11064,2024-03-13,Lipstick,Beauty,1407.71,5,"Deepak Pandey",Mumbai,"Credit Card",7038.55
+ORD-11065,2022-07-02,Doll,Toys,2880.53,7,"Rahul Sharma",Chennai,"Net Banking",20163.71
+ORD-11066,2023-08-03,Tea,Grocery,552.72,8,"Amit Singh",Jaipur,EMI,4421.76
