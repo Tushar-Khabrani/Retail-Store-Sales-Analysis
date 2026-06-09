@@ -95,7 +95,7 @@ Revenue by product (Smartwatch leads at ₹4M+) | Revenue by Month & Year (2022�
 
 ## 📄 Business Insights Report
 
-Full analysis report: [`Retail-store/report/Business_Insights_Report.pdf`](Retail-store/report/Business_Insights_Report.pdf)
+Full analysis report: [`report/Business_Insights_Report.pdf`](report/Business_Insights_Report.pdf)
 
 Key findings covered:
 - Top 5 products by revenue with % share
